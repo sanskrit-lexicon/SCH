@@ -18,3 +18,20 @@ sep=:
 .{#kaidAr3ika#}100{#kaida1r3ika#}¦:.{#kaidArika#}100{#kaida1rika#}¦:str: r3 is typo
 .{#kauntaª#}100{#kauntaª#}¦:.{#kaunta#}100{#kaunta4#}¦:str: aª => a4 (a with acute in key2)
 .{#jyotismati!#}100{#Jyotismati(!)#}¦:.{#jyotismati#}100{#Jyotismati#}¦ (!) :str:move the !
+.{#dakSiNopakrama3#}100{#daks2in2opakrama3#}¦:.{#dakSiNopakrama#}100{#daks2in2opakrama#}¦:str: typo. a3->a
+.{#paribhogya!#}100{#paribhogya(!)#}¦ :.{#paribhogya#}100{#paribhogya#}¦ (!) :str: move (!) out of header
+.{#purobhaktakA!#}100{#purobhaktaka1(!)#}¦ :.{#purobhaktakA#}100{#purobhaktaka1#}¦ (!) :str: move (!) out of header
+.{#pratijani-#}100{#pratijani-#}¦ Adv.:.{#pratijani#}100{#pratijani#}¦ - Adv.:str: move '-' out of header
+.{#mar3j#}100{#mar3j#}^1¦:.{#marj#}100{#marj#}^1¦:str: typo r3->r
+.{#yAminI=#}100{#ya1mini1°=#}¦ :.{#yAminI#}100{#ya1mini1#}¦ °= :str: change what is in header. What does ° signify here?
+.{#vApana;#}100{#va1pana;#}¦ {%s4ari1ra°?%}:.{#vApana#}100{#va1pan;#}¦ , {%s4ari1ra°?%}:str: ; => ,  Also move comma out of header
+.{#vyapatrApya!#}100{#vyapatra1pya(!)#}¦ :.{#vyapatrApya#}100{#vyapatra1pya#}¦ (!) :str: move (!) out of header
+.{#s3ugandhayati#}100{#s3ugandhay(ati)#}¦ :.{#sugandhay#}100{#sugandhay#}¦ (ati):str: s3=>s; also, (ati) out of header
+.{#+ahimaruci#}100{#+ahimaruci#}¦ :.{#ahimaruci#}100{#+ahimaruci#}¦ : remove '+' in key1. Significance unclear.
+.{#cittaM-cittam#}100{#cittam2-cittam#}¦ :.{#citta#}100{#cittam2 cittam#}¦ :str: prob. a phrase. Coding assumes pertains to (ind.) hw. 'cittam', from citta. Questionable
+.{#cetaM-cetam#}100{#cetam2-cetam#}¦ :.{#cetam#}100{#cetam2 cetam#}¦ :str: prob. a phrase. Cannot find word 'ceta' or 'cetam' . No '-' in text. Questionable.
+aü:au0:str: diaresis occurs in 16 lines in Sanskrit.  Amend HK and AS to recognize. The slp1 is 'au'.
+.{#anAzI3rka#}100{#ana1s4i13rka#}¦:.{#anAzIrka#}100{#ana1s4i14rka#}¦:str: typo. I3->I, i13 -> i14 (i with macron and acute accent)
+.{#akSitavyA#}100{#aks2itavya13#}:.{#akSitavya#}100{#aks2itavya3#}:str: typo a13 -> a3, (a with grave); vyA=>vya
+.{#avasvanyà#}100{#avasvanyà#}¦ :.{#avasvanya#}100{#avasvanya3#}¦ :str: typo à -> a in key1, à -> a3 in key2 (a with grave accent)
+.{#tari-#}100{#tari-#}¦ :.{#tarI#}100{#tari14#}¦ :str: 'i-' => I in key1, i14 in key2 (i with macron and acute accent)
