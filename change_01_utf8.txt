@@ -1,0 +1,20 @@
+sep=:
+[greek}:[greek]:str: typo once
+[/greek]:[greek]:str: to making uniform the (5) instances of greek.
+[PPPP207. 2]:[PPPP207.2]:str: typo  PPPP used to change [Page..]
+[PPPP207. 3]:[PPPP207.3]:str: typo
+45. [Schµ15267]:45. [PPPP207a.1] [Schµ15267]:str: missing PPPP
+{%a1dis4%} [PPPP207.2] Kaus.:{%a1dis4%} [PPPP207a.2] Kaus.:str: wrong PPPP
+[PPPP207.3] [Schµ15294]:[PPPP207a.3] [Schµ15294]:str: wrong PPPP (PPPP = Page)
+{#anairbhr1tya#}100{#anairbhr1tya#}:{#anairbhRtya#}100{#anairbhr2tya#}:str: typo
+.{#*jaT#}100{#[*jat2#}¦ {%sam2gha1te]…:.{#jaT#}100{#jat2#}¦ {%[* jat2…sam2gha1te] {%:str: difficult coding
+.{#*arjin#}100{#[*arjin#}¦ :.{#arjin#}100{#arjin#}¦ [:str: difficult coding
+.{#*cetakI#}100{#[*cetaki1#}¦ :.{#cetakI#}100{#cetaki1#}¦ [:str: difficult coding
+.{#kSudrA*#}100{#ks2udra1*#}¦ = :.{#kSudrA#}100{#ks2udra1#}¦ * = :str: difficult coding
+.{#gAndhAra*#}100{#ga1ndha1ra*#}¦ =:.{#gAndhAra#}100{#ga1ndha1ra#}¦ * =:str: difficult coding
+.{#AcaparAca;#}100{#a1capara1ca;#}¦ vgl.:.{#AcaparAca#}100{#a1capara1ca#}¦ ; vgl.:str: move semi-colon
+.{#utpava3na#}100{#utpa4va3na#}¦:.{#utpavana#}100{#utpa4va3na#}¦:str: remove accent in key1
+.{#kul1asthiti#}100{#kul1asthiti#}¦:.{#kulasthiti#}100{#kulasthiti#}¦:str: l1 is typo
+.{#kaidAr3ika#}100{#kaida1r3ika#}¦:.{#kaidArika#}100{#kaida1rika#}¦:str: r3 is typo
+.{#kauntaª#}100{#kauntaª#}¦:.{#kaunta#}100{#kaunta4#}¦:str: aª => a4 (a with acute in key2)
+.{#jyotismati!#}100{#Jyotismati(!)#}¦:.{#jyotismati#}100{#Jyotismati#}¦ (!) :str:move the !
