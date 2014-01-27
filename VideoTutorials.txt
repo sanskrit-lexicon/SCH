@@ -1,4 +1,3 @@
-
 sanskrit-lexicon/SCH/videotutorials.txt
 Begun Jan 20, 2014 by ejf
 
@@ -10,3 +9,5 @@ Here are the direct links.
 
 http://www.youtube.com/watch?v=aDzm8-nUzuY   1st Schmidt demo  
 http://www.youtube.com/watch?v=zOHOoNMkYDU   Jan 20, Schmidt Dictionary Tutorial, # 1 
+https://www.youtube.com/my_videos_upload     Jan 26, Schmidt Dictionary Tutorial, # 2
+
