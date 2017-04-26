@@ -1,0 +1,1486 @@
+.
+├── downloads
+│   ├── CDSL.pdf
+│   ├── old
+│   │   ├── initweb.sh
+│   │   ├── initxml.sh
+│   │   └── sch-meta.txt
+│   ├── redo_all.sh
+│   ├── redo_txt.sh
+│   ├── redo_web.sh
+│   ├── redo_xml.sh
+│   ├── sch_bookmark.pdf
+│   ├── schtxt.zip
+│   ├── schweb1.zip
+│   ├── schweb.zip
+│   ├── schxml.zip
+│   ├── web
+│   │   ├── images
+│   │   │   ├── cologne_univ_seal.gif
+│   │   │   └── encoding.gif
+│   │   ├── index.php
+│   │   ├── js
+│   │   │   ├── jquery.cookie.js
+│   │   │   └── jquery.min.js
+│   │   ├── mobile1
+│   │   │   ├── index.php
+│   │   │   ├── main.css
+│   │   │   ├── main_mobile.js
+│   │   │   └── monier_serveimg.css
+│   │   ├── pdfpages
+│   │   │   ├── sch-000-01.pdf
+│   │   │   ├── sch-000-02.pdf
+│   │   │   ├── sch-000-03.pdf
+│   │   │   ├── sch-000-04.pdf
+│   │   │   ├── sch-000-05.pdf
+│   │   │   ├── sch-000-06.pdf
+│   │   │   ├── sch-000-07.pdf
+│   │   │   ├── sch-000-08.pdf
+│   │   │   ├── sch-001.pdf
+│   │   │   ├── sch-002.pdf
+│   │   │   ├── sch-003.pdf
+│   │   │   ├── sch-004.pdf
+│   │   │   ├── sch-005.pdf
+│   │   │   ├── sch-006.pdf
+│   │   │   ├── sch-007.pdf
+│   │   │   ├── sch-008.pdf
+│   │   │   ├── sch-009.pdf
+│   │   │   ├── sch-010.pdf
+│   │   │   ├── sch-011.pdf
+│   │   │   ├── sch-012.pdf
+│   │   │   ├── sch-013.pdf
+│   │   │   ├── sch-014.pdf
+│   │   │   ├── sch-015.pdf
+│   │   │   ├── sch-016.pdf
+│   │   │   ├── sch-017.pdf
+│   │   │   ├── sch-018.pdf
+│   │   │   ├── sch-019.pdf
+│   │   │   ├── sch-020.pdf
+│   │   │   ├── sch-021.pdf
+│   │   │   ├── sch-022.pdf
+│   │   │   ├── sch-023.pdf
+│   │   │   ├── sch-024.pdf
+│   │   │   ├── sch-025.pdf
+│   │   │   ├── sch-026.pdf
+│   │   │   ├── sch-027.pdf
+│   │   │   ├── sch-028.pdf
+│   │   │   ├── sch-029.pdf
+│   │   │   ├── sch-030.pdf
+│   │   │   ├── sch-031.pdf
+│   │   │   ├── sch-032.pdf
+│   │   │   ├── sch-033.pdf
+│   │   │   ├── sch-034.pdf
+│   │   │   ├── sch-035.pdf
+│   │   │   ├── sch-036.pdf
+│   │   │   ├── sch-037.pdf
+│   │   │   ├── sch-038.pdf
+│   │   │   ├── sch-039.pdf
+│   │   │   ├── sch-040.pdf
+│   │   │   ├── sch-041.pdf
+│   │   │   ├── sch-042.pdf
+│   │   │   ├── sch-043.pdf
+│   │   │   ├── sch-044.pdf
+│   │   │   ├── sch-045.pdf
+│   │   │   ├── sch-046.pdf
+│   │   │   ├── sch-047.pdf
+│   │   │   ├── sch-048.pdf
+│   │   │   ├── sch-049.pdf
+│   │   │   ├── sch-050.pdf
+│   │   │   ├── sch-051.pdf
+│   │   │   ├── sch-052.pdf
+│   │   │   ├── sch-053.pdf
+│   │   │   ├── sch-054.pdf
+│   │   │   ├── sch-055.pdf
+│   │   │   ├── sch-056.pdf
+│   │   │   ├── sch-057.pdf
+│   │   │   ├── sch-058.pdf
+│   │   │   ├── sch-059.pdf
+│   │   │   ├── sch-060.pdf
+│   │   │   ├── sch-061.pdf
+│   │   │   ├── sch-062.pdf
+│   │   │   ├── sch-063.pdf
+│   │   │   ├── sch-064.pdf
+│   │   │   ├── sch-065.pdf
+│   │   │   ├── sch-066.pdf
+│   │   │   ├── sch-067.pdf
+│   │   │   ├── sch-068.pdf
+│   │   │   ├── sch-069.pdf
+│   │   │   ├── sch-070.pdf
+│   │   │   ├── sch-071.pdf
+│   │   │   ├── sch-072.pdf
+│   │   │   ├── sch-073.pdf
+│   │   │   ├── sch-074.pdf
+│   │   │   ├── sch-075.pdf
+│   │   │   ├── sch-076.pdf
+│   │   │   ├── sch-077.pdf
+│   │   │   ├── sch-078.pdf
+│   │   │   ├── sch-079.pdf
+│   │   │   ├── sch-080.pdf
+│   │   │   ├── sch-081.pdf
+│   │   │   ├── sch-082.pdf
+│   │   │   ├── sch-083.pdf
+│   │   │   ├── sch-084.pdf
+│   │   │   ├── sch-085.pdf
+│   │   │   ├── sch-086.pdf
+│   │   │   ├── sch-087.pdf
+│   │   │   ├── sch-088.pdf
+│   │   │   ├── sch-089.pdf
+│   │   │   ├── sch-090.pdf
+│   │   │   ├── sch-091.pdf
+│   │   │   ├── sch-092.pdf
+│   │   │   ├── sch-093.pdf
+│   │   │   ├── sch-094.pdf
+│   │   │   ├── sch-095.pdf
+│   │   │   ├── sch-096.pdf
+│   │   │   ├── sch-097.pdf
+│   │   │   ├── sch-098.pdf
+│   │   │   ├── sch-099.pdf
+│   │   │   ├── sch-100.pdf
+│   │   │   ├── sch-101.pdf
+│   │   │   ├── sch-102.pdf
+│   │   │   ├── sch-103.pdf
+│   │   │   ├── sch-104.pdf
+│   │   │   ├── sch-105.pdf
+│   │   │   ├── sch-106.pdf
+│   │   │   ├── sch-107.pdf
+│   │   │   ├── sch-108.pdf
+│   │   │   ├── sch-109.pdf
+│   │   │   ├── sch-110.pdf
+│   │   │   ├── sch-111.pdf
+│   │   │   ├── sch-112.pdf
+│   │   │   ├── sch-113.pdf
+│   │   │   ├── sch-114.pdf
+│   │   │   ├── sch-115.pdf
+│   │   │   ├── sch-116.pdf
+│   │   │   ├── sch-117.pdf
+│   │   │   ├── sch-118.pdf
+│   │   │   ├── sch-119.pdf
+│   │   │   ├── sch-120.pdf
+│   │   │   ├── sch-121.pdf
+│   │   │   ├── sch-122.pdf
+│   │   │   ├── sch-123.pdf
+│   │   │   ├── sch-124.pdf
+│   │   │   ├── sch-125.pdf
+│   │   │   ├── sch-126.pdf
+│   │   │   ├── sch-127.pdf
+│   │   │   ├── sch-128.pdf
+│   │   │   ├── sch-129.pdf
+│   │   │   ├── sch-130.pdf
+│   │   │   ├── sch-131.pdf
+│   │   │   ├── sch-132.pdf
+│   │   │   ├── sch-133.pdf
+│   │   │   ├── sch-134.pdf
+│   │   │   ├── sch-135.pdf
+│   │   │   ├── sch-136.pdf
+│   │   │   ├── sch-137.pdf
+│   │   │   ├── sch-138.pdf
+│   │   │   ├── sch-139.pdf
+│   │   │   ├── sch-140.pdf
+│   │   │   ├── sch-141.pdf
+│   │   │   ├── sch-142.pdf
+│   │   │   ├── sch-143.pdf
+│   │   │   ├── sch-144.pdf
+│   │   │   ├── sch-145.pdf
+│   │   │   ├── sch-146.pdf
+│   │   │   ├── sch-147.pdf
+│   │   │   ├── sch-148.pdf
+│   │   │   ├── sch-149.pdf
+│   │   │   ├── sch-150.pdf
+│   │   │   ├── sch-151.pdf
+│   │   │   ├── sch-152.pdf
+│   │   │   ├── sch-153.pdf
+│   │   │   ├── sch-154.pdf
+│   │   │   ├── sch-155.pdf
+│   │   │   ├── sch-156.pdf
+│   │   │   ├── sch-157.pdf
+│   │   │   ├── sch-158.pdf
+│   │   │   ├── sch-159.pdf
+│   │   │   ├── sch-160.pdf
+│   │   │   ├── sch-161.pdf
+│   │   │   ├── sch-162.pdf
+│   │   │   ├── sch-163.pdf
+│   │   │   ├── sch-164.pdf
+│   │   │   ├── sch-165.pdf
+│   │   │   ├── sch-166.pdf
+│   │   │   ├── sch-167.pdf
+│   │   │   ├── sch-168.pdf
+│   │   │   ├── sch-169.pdf
+│   │   │   ├── sch-170.pdf
+│   │   │   ├── sch-171.pdf
+│   │   │   ├── sch-172.pdf
+│   │   │   ├── sch-173.pdf
+│   │   │   ├── sch-174.pdf
+│   │   │   ├── sch-175.pdf
+│   │   │   ├── sch-176.pdf
+│   │   │   ├── sch-177.pdf
+│   │   │   ├── sch-178.pdf
+│   │   │   ├── sch-179.pdf
+│   │   │   ├── sch-180.pdf
+│   │   │   ├── sch-181.pdf
+│   │   │   ├── sch-182.pdf
+│   │   │   ├── sch-183.pdf
+│   │   │   ├── sch-184.pdf
+│   │   │   ├── sch-185.pdf
+│   │   │   ├── sch-186.pdf
+│   │   │   ├── sch-187.pdf
+│   │   │   ├── sch-188.pdf
+│   │   │   ├── sch-189.pdf
+│   │   │   ├── sch-190.pdf
+│   │   │   ├── sch-191.pdf
+│   │   │   ├── sch-192.pdf
+│   │   │   ├── sch-193.pdf
+│   │   │   ├── sch-194.pdf
+│   │   │   ├── sch-195.pdf
+│   │   │   ├── sch-196.pdf
+│   │   │   ├── sch-197.pdf
+│   │   │   ├── sch-198.pdf
+│   │   │   ├── sch-199.pdf
+│   │   │   ├── sch-200.pdf
+│   │   │   ├── sch-201.pdf
+│   │   │   ├── sch-202.pdf
+│   │   │   ├── sch-203.pdf
+│   │   │   ├── sch-204.pdf
+│   │   │   ├── sch-205.pdf
+│   │   │   ├── sch-206.pdf
+│   │   │   ├── sch-207.pdf
+│   │   │   ├── sch-208.pdf
+│   │   │   ├── sch-209.pdf
+│   │   │   ├── sch-210.pdf
+│   │   │   ├── sch-211.pdf
+│   │   │   ├── sch-212.pdf
+│   │   │   ├── sch-213.pdf
+│   │   │   ├── sch-214.pdf
+│   │   │   ├── sch-215.pdf
+│   │   │   ├── sch-216.pdf
+│   │   │   ├── sch-217.pdf
+│   │   │   ├── sch-218.pdf
+│   │   │   ├── sch-219.pdf
+│   │   │   ├── sch-220.pdf
+│   │   │   ├── sch-221.pdf
+│   │   │   ├── sch-222.pdf
+│   │   │   ├── sch-223.pdf
+│   │   │   ├── sch-224.pdf
+│   │   │   ├── sch-225.pdf
+│   │   │   ├── sch-226.pdf
+│   │   │   ├── sch-227.pdf
+│   │   │   ├── sch-228.pdf
+│   │   │   ├── sch-229.pdf
+│   │   │   ├── sch-230.pdf
+│   │   │   ├── sch-231.pdf
+│   │   │   ├── sch-232.pdf
+│   │   │   ├── sch-233.pdf
+│   │   │   ├── sch-234.pdf
+│   │   │   ├── sch-235.pdf
+│   │   │   ├── sch-236.pdf
+│   │   │   ├── sch-237.pdf
+│   │   │   ├── sch-238.pdf
+│   │   │   ├── sch-239.pdf
+│   │   │   ├── sch-240.pdf
+│   │   │   ├── sch-241.pdf
+│   │   │   ├── sch-242.pdf
+│   │   │   ├── sch-243.pdf
+│   │   │   ├── sch-244.pdf
+│   │   │   ├── sch-245.pdf
+│   │   │   ├── sch-246.pdf
+│   │   │   ├── sch-247.pdf
+│   │   │   ├── sch-248.pdf
+│   │   │   ├── sch-249.pdf
+│   │   │   ├── sch-250.pdf
+│   │   │   ├── sch-251.pdf
+│   │   │   ├── sch-252.pdf
+│   │   │   ├── sch-253.pdf
+│   │   │   ├── sch-254.pdf
+│   │   │   ├── sch-255.pdf
+│   │   │   ├── sch-256.pdf
+│   │   │   ├── sch-257.pdf
+│   │   │   ├── sch-258.pdf
+│   │   │   ├── sch-259.pdf
+│   │   │   ├── sch-260.pdf
+│   │   │   ├── sch-261.pdf
+│   │   │   ├── sch-262.pdf
+│   │   │   ├── sch-263.pdf
+│   │   │   ├── sch-264.pdf
+│   │   │   ├── sch-265.pdf
+│   │   │   ├── sch-266.pdf
+│   │   │   ├── sch-267.pdf
+│   │   │   ├── sch-268.pdf
+│   │   │   ├── sch-269.pdf
+│   │   │   ├── sch-270.pdf
+│   │   │   ├── sch-271.pdf
+│   │   │   ├── sch-272.pdf
+│   │   │   ├── sch-273.pdf
+│   │   │   ├── sch-274.pdf
+│   │   │   ├── sch-275.pdf
+│   │   │   ├── sch-276.pdf
+│   │   │   ├── sch-277.pdf
+│   │   │   ├── sch-278.pdf
+│   │   │   ├── sch-279.pdf
+│   │   │   ├── sch-280.pdf
+│   │   │   ├── sch-281.pdf
+│   │   │   ├── sch-282.pdf
+│   │   │   ├── sch-283.pdf
+│   │   │   ├── sch-284.pdf
+│   │   │   ├── sch-285.pdf
+│   │   │   ├── sch-286.pdf
+│   │   │   ├── sch-287.pdf
+│   │   │   ├── sch-288.pdf
+│   │   │   ├── sch-289.pdf
+│   │   │   ├── sch-290.pdf
+│   │   │   ├── sch-291.pdf
+│   │   │   ├── sch-292.pdf
+│   │   │   ├── sch-293.pdf
+│   │   │   ├── sch-294.pdf
+│   │   │   ├── sch-295.pdf
+│   │   │   ├── sch-296.pdf
+│   │   │   ├── sch-297.pdf
+│   │   │   ├── sch-298.pdf
+│   │   │   ├── sch-299.pdf
+│   │   │   ├── sch-300.pdf
+│   │   │   ├── sch-301.pdf
+│   │   │   ├── sch-302.pdf
+│   │   │   ├── sch-303.pdf
+│   │   │   ├── sch-304.pdf
+│   │   │   ├── sch-305.pdf
+│   │   │   ├── sch-306.pdf
+│   │   │   ├── sch-307.pdf
+│   │   │   ├── sch-308.pdf
+│   │   │   ├── sch-309.pdf
+│   │   │   ├── sch-310.pdf
+│   │   │   ├── sch-311.pdf
+│   │   │   ├── sch-312.pdf
+│   │   │   ├── sch-313.pdf
+│   │   │   ├── sch-314.pdf
+│   │   │   ├── sch-315.pdf
+│   │   │   ├── sch-316.pdf
+│   │   │   ├── sch-317.pdf
+│   │   │   ├── sch-318.pdf
+│   │   │   ├── sch-319.pdf
+│   │   │   ├── sch-320.pdf
+│   │   │   ├── sch-321.pdf
+│   │   │   ├── sch-322.pdf
+│   │   │   ├── sch-323.pdf
+│   │   │   ├── sch-324.pdf
+│   │   │   ├── sch-325.pdf
+│   │   │   ├── sch-326.pdf
+│   │   │   ├── sch-327.pdf
+│   │   │   ├── sch-328.pdf
+│   │   │   ├── sch-329.pdf
+│   │   │   ├── sch-330.pdf
+│   │   │   ├── sch-331.pdf
+│   │   │   ├── sch-332.pdf
+│   │   │   ├── sch-333.pdf
+│   │   │   ├── sch-334.pdf
+│   │   │   ├── sch-335.pdf
+│   │   │   ├── sch-336.pdf
+│   │   │   ├── sch-337.pdf
+│   │   │   ├── sch-338.pdf
+│   │   │   ├── sch-339.pdf
+│   │   │   ├── sch-340.pdf
+│   │   │   ├── sch-341.pdf
+│   │   │   ├── sch-342.pdf
+│   │   │   ├── sch-343.pdf
+│   │   │   ├── sch-344.pdf
+│   │   │   ├── sch-345.pdf
+│   │   │   ├── sch-346.pdf
+│   │   │   ├── sch-347.pdf
+│   │   │   ├── sch-348.pdf
+│   │   │   ├── sch-349.pdf
+│   │   │   ├── sch-350.pdf
+│   │   │   ├── sch-351.pdf
+│   │   │   ├── sch-352.pdf
+│   │   │   ├── sch-353.pdf
+│   │   │   ├── sch-354.pdf
+│   │   │   ├── sch-355.pdf
+│   │   │   ├── sch-356.pdf
+│   │   │   ├── sch-357.pdf
+│   │   │   ├── sch-358.pdf
+│   │   │   ├── sch-359.pdf
+│   │   │   ├── sch-360.pdf
+│   │   │   ├── sch-361.pdf
+│   │   │   ├── sch-362.pdf
+│   │   │   ├── sch-363.pdf
+│   │   │   ├── sch-364.pdf
+│   │   │   ├── sch-365.pdf
+│   │   │   ├── sch-366.pdf
+│   │   │   ├── sch-367.pdf
+│   │   │   ├── sch-368.pdf
+│   │   │   ├── sch-369.pdf
+│   │   │   ├── sch-370.pdf
+│   │   │   ├── sch-371.pdf
+│   │   │   ├── sch-372.pdf
+│   │   │   ├── sch-373.pdf
+│   │   │   ├── sch-374.pdf
+│   │   │   ├── sch-375.pdf
+│   │   │   ├── sch-376.pdf
+│   │   │   ├── sch-377.pdf
+│   │   │   ├── sch-378.pdf
+│   │   │   ├── sch-379.pdf
+│   │   │   ├── sch-380.pdf
+│   │   │   ├── sch-381.pdf
+│   │   │   ├── sch-382.pdf
+│   │   │   ├── sch-383.pdf
+│   │   │   ├── sch-384.pdf
+│   │   │   ├── sch-385.pdf
+│   │   │   ├── sch-386.pdf
+│   │   │   ├── sch-387.pdf
+│   │   │   ├── sch-388.pdf
+│   │   │   ├── sch-389.pdf
+│   │   │   ├── sch-390.pdf
+│   │   │   ├── sch-391.pdf
+│   │   │   ├── sch-392.pdf
+│   │   │   ├── sch-393.pdf
+│   │   │   ├── sch-394.pdf
+│   │   │   ├── sch-395.pdf
+│   │   │   ├── sch-396.pdf
+│   │   │   ├── sch-397.pdf
+│   │   │   └── sch-398.pdf
+│   │   ├── readme.txt
+│   │   ├── schheader.xml
+│   │   ├── sqlite
+│   │   │   ├── input.txt
+│   │   │   ├── make_input.php
+│   │   │   ├── redo.sh
+│   │   │   ├── sch.sql
+│   │   │   └── sch.sqlite
+│   │   ├── utilities
+│   │   │   ├── old
+│   │   │   │   ├── transcoder_entites_v1.php
+│   │   │   │   └── transcoder.php
+│   │   │   ├── test
+│   │   │   │   ├── slp1_deva1.xml
+│   │   │   │   ├── slp1_deva.xml
+│   │   │   │   ├── slp1_romanejf.xml
+│   │   │   │   ├── slp1_roman.xml
+│   │   │   │   ├── temp
+│   │   │   │   ├── temp.php
+│   │   │   │   ├── testdeva.php
+│   │   │   │   ├── testroman2.html
+│   │   │   │   ├── testroman2.php
+│   │   │   │   └── testroman.php
+│   │   │   ├── transcoder
+│   │   │   │   ├── as_roman.xml
+│   │   │   │   ├── deva_slp1.xml
+│   │   │   │   ├── hk_slp1.xml
+│   │   │   │   ├── itrans_slp1.xml
+│   │   │   │   ├── old
+│   │   │   │   │   ├── as_roman.xml
+│   │   │   │   │   ├── roman_slp1.xml
+│   │   │   │   │   ├── slp1_deva-20131129.xml
+│   │   │   │   │   ├── slp1_deva.xml
+│   │   │   │   │   ├── slp1_roman-20131128.cml
+│   │   │   │   │   ├── slp1_roman_20131204a.xml
+│   │   │   │   │   ├── slp1_roman_20131204.xml
+│   │   │   │   │   ├── slp1_roman_20131205.xml
+│   │   │   │   │   ├── slp1_roman_pms.xml
+│   │   │   │   │   ├── slp1_roman_v1.xml
+│   │   │   │   │   ├── slp1_romanv1.xml
+│   │   │   │   │   └── slp1_roman.xml
+│   │   │   │   ├── pms
+│   │   │   │   │   └── transcoders_pms_2013Nov23.zip
+│   │   │   │   ├── roman_slp1.xml
+│   │   │   │   ├── slp1_as.xml
+│   │   │   │   ├── slp1_deva.xml
+│   │   │   │   ├── slp1_hk.xml
+│   │   │   │   ├── slp1_itrans.xml
+│   │   │   │   ├── slp1_romanpms.xml
+│   │   │   │   ├── slp1_roman.xml
+│   │   │   │   ├── slp1_wx.xml
+│   │   │   │   └── wx_slp1.xml
+│   │   │   └── transcoder.php
+│   │   ├── webtc
+│   │   │   ├── a_roman.html
+│   │   │   ├── corr_1_test.html
+│   │   │   ├── corr2.php
+│   │   │   ├── corr_2_test.html
+│   │   │   ├── corrections.php
+│   │   │   ├── dal_sqlite.php
+│   │   │   ├── disp.php
+│   │   │   ├── disp_servepdf.php
+│   │   │   ├── download.html
+│   │   │   ├── getword.php
+│   │   │   ├── help.html
+│   │   │   ├── indexcaller.php
+│   │   │   ├── main.css
+│   │   │   ├── main_webtc.js
+│   │   │   ├── old
+│   │   │   │   ├── corrections.php
+│   │   │   │   ├── disp.php
+│   │   │   │   ├── disp_servepdf.php
+│   │   │   │   ├── indexcaller.php
+│   │   │   │   └── main.css
+│   │   │   ├── pdffiles.txt
+│   │   │   ├── serveimg.css
+│   │   │   ├── servepdf.php
+│   │   │   └── translithelp.html
+│   │   ├── webtc1
+│   │   │   ├── disphier.php
+│   │   │   ├── error.xml
+│   │   │   ├── help
+│   │   │   │   ├── accents.html
+│   │   │   │   ├── ack.html
+│   │   │   │   ├── definition.html
+│   │   │   │   ├── help.css
+│   │   │   │   ├── help.html
+│   │   │   │   ├── help.js
+│   │   │   │   ├── helpmain.html
+│   │   │   │   ├── images
+│   │   │   │   │   ├── aham1_scan.PNG
+│   │   │   │   │   ├── aham2_scan.PNG
+│   │   │   │   │   ├── aham_deva.PNG
+│   │   │   │   │   ├── aham_roman.PNG
+│   │   │   │   │   ├── anudatta_deva.PNG
+│   │   │   │   │   ├── anudatta_roman.PNG
+│   │   │   │   │   ├── anudatta_scan.PNG
+│   │   │   │   │   ├── svarita_deva.PNG
+│   │   │   │   │   ├── svarita_roman.PNG
+│   │   │   │   │   ├── svarita_scan.PNG
+│   │   │   │   │   ├── udatta_deva.PNG
+│   │   │   │   │   ├── udatta_roman.PNG
+│   │   │   │   │   └── udatta_scan.PNG
+│   │   │   │   ├── input.html
+│   │   │   │   ├── keyboard.html
+│   │   │   │   ├── links.html
+│   │   │   │   ├── list.html
+│   │   │   │   ├── phonetic.html
+│   │   │   │   ├── preferences.html
+│   │   │   │   └── system.html
+│   │   │   ├── index.php
+│   │   │   ├── keyboard.css
+│   │   │   ├── keyboard.js
+│   │   │   ├── keyboard.png
+│   │   │   ├── listhier.php
+│   │   │   ├── listhierskip.php
+│   │   │   ├── main.css
+│   │   │   ├── main.js
+│   │   │   ├── old
+│   │   │   │   └── index.php
+│   │   │   ├── preferences.htm
+│   │   │   ├── transcoderfield_VKI.js
+│   │   │   └── transcoderjs
+│   │   │       ├── transcoder3.js
+│   │   │       └── transcoderJson.js
+│   │   └── webtc2
+│   │       ├── error.xml
+│   │       ├── help.html
+│   │       ├── index.php
+│   │       ├── init_query.php
+│   │       ├── init_query.sh
+│   │       ├── main.css
+│   │       ├── main.js
+│   │       ├── old
+│   │       │   ├── index.php
+│   │       │   └── main.js
+│   │       ├── query_dump.txt
+│   │       ├── query_gather.php
+│   │       ├── query_multi.php
+│   │       ├── query.php
+│   │       ├── temp
+│   │       ├── temp.php
+│   │       └── tempwork
+│   │           ├── index.php
+│   │           ├── init_query.php
+│   │           ├── main.js
+│   │           ├── query_gather.php
+│   │           ├── query_multi.php
+│   │           └── query.php
+│   └── xml
+│       ├── as_slp1.xml
+│       ├── change_line.txt
+│       ├── headword.py
+│       ├── hk_slp1.xml
+│       ├── hw0.py
+│       ├── hw1.py
+│       ├── hw2.py
+│       ├── make_xml.py
+│       ├── manualByLine01.txt
+│       ├── manualByLine02.txt
+│       ├── readme.txt
+│       ├── redo.sh
+│       ├── sch.dtd
+│       ├── schheader.xml
+│       ├── schhw0.txt
+│       ├── schhw1_note.txt
+│       ├── schhw1.txt
+│       ├── schhw2.txt
+│       ├── sch-meta.txt
+│       ├── sch.xml
+│       ├── transcoder.py
+│       ├── updateByLine.py
+│       ├── update_line.py
+│       ├── update.py
+│       └── update.sh
+├── initdownloads.sh
+├── initweb.sh
+├── old
+│   ├── readme.org
+│   ├── readme_prev.org
+│   └── readme-v1.org
+├── orig
+│   ├── convertpdf.sh
+│   ├── make_convert.py
+│   ├── sch0.txt
+│   ├── sch1.txt
+│   ├── sch2.txt
+│   ├── sch3.txt
+│   ├── sch_orig.txt
+│   ├── sch_orig_utf8_slp1.txt
+│   ├── sch_orig_utf8.txt
+│   └── sch.txt
+├── pywork
+│   ├── 20170420
+│   │   ├── adjtxt0_log.txt
+│   │   ├── adjtxt0.py
+│   │   ├── adjtxt2.py
+│   │   ├── adjtxt_pcdata.txt
+│   │   ├── adjtxt.py
+│   │   ├── as_roman_adjust.py
+│   │   ├── as_roman.xml
+│   │   ├── as_temproman1.xml
+│   │   ├── as_temproman.xml
+│   │   ├── changes
+│   │   │   ├── changes_A3.txt
+│   │   │   ├── changes_A3.txt~
+│   │   │   ├── changes_a_grave.txt
+│   │   │   ├── changes_a_grave.txt~
+│   │   │   ├── changes_colon.txt
+│   │   │   ├── changes_devanagari.txt
+│   │   │   ├── changes_emdash.txt
+│   │   │   ├── changes_euro1.txt
+│   │   │   ├── changes_euro1.txt~
+│   │   │   ├── changes_euro.txt
+│   │   │   ├── changes_euro.txt~
+│   │   │   ├── changes_pseudo.txt
+│   │   │   ├── changes_u0.txt
+│   │   │   ├── changes_u0.txt~
+│   │   │   └── remainingas.txt
+│   │   ├── homophone_log.txt
+│   │   ├── homophone.py
+│   │   ├── localschhw2.txt
+│   │   ├── makechange.py
+│   │   ├── make_L.py
+│   │   ├── make_xxxas_roman.py
+│   │   ├── manualByLine0a.txt
+│   │   ├── manualByLine0b.txt
+│   │   ├── prev_schhw2.txt
+│   │   ├── readme.org
+│   │   ├── redo.sh
+│   │   ├── roman_schas.xml
+│   │   ├── sch0a.txt
+│   │   ├── sch0b.txt
+│   │   ├── sch0c.txt
+│   │   ├── sch0d.txt
+│   │   ├── schadj0.txt
+│   │   ├── schadj1_noninvertible.txt
+│   │   ├── schadj1.txt
+│   │   ├── schadj2.txt
+│   │   ├── schadj.txt
+│   │   ├── schas_roman_all.xml
+│   │   ├── schas_roman_auto.xml
+│   │   ├── schas_roman.xml
+│   │   ├── temp.txt
+│   │   ├── transcoder_invert.py
+│   │   └── xxxas_roman.py
+│   ├── as_roman.txt
+│   ├── as_roman.xml
+│   ├── as_slp1.xml
+│   ├── change_line.txt
+│   ├── check_accent.py
+│   ├── check_as.py
+│   ├── check_as.txt
+│   ├── check_curly.py
+│   ├── check_curly.txt
+│   ├── checkdisp_as_in.txt
+│   ├── checkdisp_as_out.txt
+│   ├── checkdisp_as.py
+│   ├── check_ea1.py
+│   ├── check_ea1.txt
+│   ├── check_ea.py
+│   ├── check_ea.txt
+│   ├── check_mw_not.txt
+│   ├── check_mw.php
+│   ├── check_mw.txt
+│   ├── check_page.py
+│   ├── check_page.txt
+│   ├── check_tags.py
+│   ├── check_tags.txt
+│   ├── convertwork
+│   │   ├── convertwork
+│   │   │   └── readme.txt
+│   │   ├── hk_slp1.xml
+│   │   ├── old
+│   │   │   ├── hk_slp1.xml
+│   │   │   └── slp1_hk.xml
+│   │   ├── oldhk
+│   │   │   ├── change_01.txt
+│   │   │   ├── make_xml.py
+│   │   │   ├── manualByLine.txt
+│   │   │   ├── updatelog1.txt
+│   │   │   └── update.sh
+│   │   ├── readme.txt
+│   │   ├── slp1_hk.xml
+│   │   └── transcode.py
+│   ├── correctionwork
+│   │   ├── issue-166
+│   │   │   ├── change.txt
+│   │   │   ├── generate.py
+│   │   │   ├── prepareupd.sh
+│   │   │   ├── readme.txt
+│   │   │   ├── schnochange.txt
+│   │   │   ├── schupd_edit.txt
+│   │   │   ├── schupd.tsv
+│   │   │   └── schupd.txt
+│   │   ├── issue-171
+│   │   │   ├── change.txt
+│   │   │   ├── generate.py
+│   │   │   ├── prepareupd.sh
+│   │   │   ├── prev_readme.txt
+│   │   │   ├── readme.txt
+│   │   │   ├── schnochange.txt
+│   │   │   ├── schupd_edit.txt
+│   │   │   ├── schupd.tsv
+│   │   │   └── schupd.txt
+│   │   ├── issue-189
+│   │   │   ├── change.txt
+│   │   │   ├── hwgenerate.py
+│   │   │   ├── prepareupd.sh
+│   │   │   ├── readme.txt
+│   │   │   ├── schnochange.txt
+│   │   │   ├── schupd_edit.txt
+│   │   │   ├── schupd.tsv
+│   │   │   └── schupd.txt
+│   │   ├── issue-214
+│   │   │   ├── change.txt
+│   │   │   ├── generate.py
+│   │   │   ├── generate.pyc
+│   │   │   ├── prep
+│   │   │   │   ├── change214.txt
+│   │   │   │   ├── prep214_log.txt
+│   │   │   │   └── prep214.txt
+│   │   │   ├── prepareupd.sh
+│   │   │   ├── prepchange.py
+│   │   │   ├── prepwork.sh
+│   │   │   ├── readme_prep.txt
+│   │   │   ├── readme.txt
+│   │   │   ├── schnochange.txt
+│   │   │   ├── schupd_edit.txt
+│   │   │   ├── schupd.tsv
+│   │   │   └── schupd.txt
+│   │   ├── issue-243
+│   │   │   ├── change.txt
+│   │   │   ├── hwgenerate.py
+│   │   │   ├── readme.txt
+│   │   │   ├── schnochange.txt
+│   │   │   ├── schupd_edit.txt
+│   │   │   ├── schupd.tsv
+│   │   │   └── schupd.txt
+│   │   ├── issue-276
+│   │   │   ├── change.txt
+│   │   │   ├── hwgenerate.py
+│   │   │   ├── readme.txt
+│   │   │   ├── schnochange.txt
+│   │   │   ├── schupd_edit.txt
+│   │   │   ├── schupd.tsv
+│   │   │   └── schupd.txt
+│   │   ├── issue-295
+│   │   │   ├── change.txt
+│   │   │   ├── hwgenerate.py
+│   │   │   ├── readme.txt
+│   │   │   ├── schnochange.txt
+│   │   │   ├── schupd_edit.txt
+│   │   │   ├── schupd.tsv
+│   │   │   └── schupd.txt
+│   │   ├── issue-298
+│   │   │   ├── change.txt
+│   │   │   ├── hwgenerate.py
+│   │   │   ├── readme.txt
+│   │   │   ├── schnochange.txt
+│   │   │   ├── schupd_edit.txt
+│   │   │   ├── schupd.tsv
+│   │   │   └── schupd.txt
+│   │   ├── issue-299
+│   │   │   ├── change.txt
+│   │   │   ├── hwgenerate.py
+│   │   │   ├── readme.txt
+│   │   │   ├── schnochange.txt
+│   │   │   ├── schupd.tsv
+│   │   │   └── schupd.txt
+│   │   ├── readme.org
+│   │   └── schmw1
+│   │       ├── generate.py
+│   │       ├── schmw1.txt
+│   │       ├── schmw1upd.tsv
+│   │       └── schmw1upd.txt
+│   ├── cp1252_to_utf8.py
+│   ├── doubledecode1.py
+│   ├── doubledecode.py
+│   ├── headword.py
+│   ├── headword.pyc
+│   ├── hk_slp1.xml
+│   ├── html
+│   │   ├── def.sql
+│   │   ├── input.txt
+│   │   ├── make_html.php
+│   │   ├── redo.sh
+│   │   └── schhtml.sqlite
+│   ├── hw0.py
+│   ├── hw1.py
+│   ├── hw2.py
+│   ├── hw_page.py
+│   ├── inmhw_page.py
+│   ├── make_as_roman.py
+│   ├── make_pdfpages.sh
+│   ├── make_sync.sh
+│   ├── make_xml.py
+│   ├── manualByLine01.txt
+│   ├── manualByline02-additions.zip
+│   ├── manualByLine02.txt
+│   ├── manualByLine03.txt
+│   ├── old
+│   │   ├── another.py
+│   │   ├── changelog_01.txt
+│   │   ├── headword.py
+│   │   ├── hw0.py
+│   │   ├── hw1.py
+│   │   ├── hw2.py
+│   │   ├── hw_page.py
+│   │   ├── make_xml.py
+│   │   ├── sch.dtd
+│   │   ├── schhw0_note.txt
+│   │   ├── schhw0.txt
+│   │   ├── schhw1_note.txt
+│   │   ├── schhw1.txt
+│   │   ├── schhw2_note.txt
+│   │   ├── schhw2.txt
+│   │   ├── schhw_page.txt
+│   │   ├── sch.xml
+│   │   ├── updatelog1.txt
+│   │   ├── updatelog.txt
+│   │   └── update.py
+│   ├── pdfbookmarks.txt
+│   ├── pdffiles.py
+│   ├── pdffiles.txt
+│   ├── pdf_mergeall.py
+│   ├── pdf_mergetitle.py
+│   ├── pdftitles.txt
+│   ├── prev_manualByLine02.txt
+│   ├── PyPDF2
+│   │   ├── filters.py
+│   │   ├── filters.pyc
+│   │   ├── generic.py
+│   │   ├── generic.pyc
+│   │   ├── __init__.py
+│   │   ├── __init__.pyc
+│   │   ├── merger.py
+│   │   ├── merger.pyc
+│   │   ├── pdf.py
+│   │   ├── pdf.pyc
+│   │   ├── utils.py
+│   │   ├── utils.pyc
+│   │   └── xmp.py
+│   ├── readme.org
+│   ├── redo_hw.sh
+│   ├── redoxml_log.txt
+│   ├── redo_xml.sh
+│   ├── sch.dtd
+│   ├── schheader.xml
+│   ├── schhw0_note.txt
+│   ├── schhw0.txt
+│   ├── schhw1_note.txt
+│   ├── schhw1.txt
+│   ├── schhw2_note.txt
+│   ├── schhw2.txt
+│   ├── schhw_page.txt
+│   ├── sch-meta2.txt
+│   ├── sch-meta.txt
+│   ├── schsync.zip
+│   ├── sch.xml
+│   ├── slp1_hk.xml
+│   ├── slp1_roman.xml
+│   ├── tempnew.txt
+│   ├── temp.sh
+│   ├── temp.txt
+│   ├── transcoder.py
+│   ├── transcoder.pyc
+│   ├── updateByLine.py
+│   ├── updatelinelog.txt
+│   ├── update_line.py
+│   ├── update_line.pyc
+│   ├── update.py
+│   ├── update.sh
+│   ├── update_sync.sh
+│   └── utf8_to_cp1252.py
+├── sch_orig.zip
+├── sch_pywork.zip
+├── sch_xml.zip
+├── tree.txt
+└── web
+    ├── images
+    │   ├── cologne_univ_seal.gif
+    │   └── encoding.gif
+    ├── index.php
+    ├── js
+    │   ├── jquery.cookie.js
+    │   └── jquery.min.js
+    ├── mobile1
+    │   ├── index.php
+    │   ├── main.css
+    │   ├── main_mobile.js
+    │   └── monier_serveimg.css
+    ├── pdfpages
+    │   ├── sch-000-01.pdf
+    │   ├── sch-000-02.pdf
+    │   ├── sch-000-03.pdf
+    │   ├── sch-000-04.pdf
+    │   ├── sch-000-05.pdf
+    │   ├── sch-000-06.pdf
+    │   ├── sch-000-07.pdf
+    │   ├── sch-000-08.pdf
+    │   ├── sch-001.pdf
+    │   ├── sch-002.pdf
+    │   ├── sch-003.pdf
+    │   ├── sch-004.pdf
+    │   ├── sch-005.pdf
+    │   ├── sch-006.pdf
+    │   ├── sch-007.pdf
+    │   ├── sch-008.pdf
+    │   ├── sch-009.pdf
+    │   ├── sch-010.pdf
+    │   ├── sch-011.pdf
+    │   ├── sch-012.pdf
+    │   ├── sch-013.pdf
+    │   ├── sch-014.pdf
+    │   ├── sch-015.pdf
+    │   ├── sch-016.pdf
+    │   ├── sch-017.pdf
+    │   ├── sch-018.pdf
+    │   ├── sch-019.pdf
+    │   ├── sch-020.pdf
+    │   ├── sch-021.pdf
+    │   ├── sch-022.pdf
+    │   ├── sch-023.pdf
+    │   ├── sch-024.pdf
+    │   ├── sch-025.pdf
+    │   ├── sch-026.pdf
+    │   ├── sch-027.pdf
+    │   ├── sch-028.pdf
+    │   ├── sch-029.pdf
+    │   ├── sch-030.pdf
+    │   ├── sch-031.pdf
+    │   ├── sch-032.pdf
+    │   ├── sch-033.pdf
+    │   ├── sch-034.pdf
+    │   ├── sch-035.pdf
+    │   ├── sch-036.pdf
+    │   ├── sch-037.pdf
+    │   ├── sch-038.pdf
+    │   ├── sch-039.pdf
+    │   ├── sch-040.pdf
+    │   ├── sch-041.pdf
+    │   ├── sch-042.pdf
+    │   ├── sch-043.pdf
+    │   ├── sch-044.pdf
+    │   ├── sch-045.pdf
+    │   ├── sch-046.pdf
+    │   ├── sch-047.pdf
+    │   ├── sch-048.pdf
+    │   ├── sch-049.pdf
+    │   ├── sch-050.pdf
+    │   ├── sch-051.pdf
+    │   ├── sch-052.pdf
+    │   ├── sch-053.pdf
+    │   ├── sch-054.pdf
+    │   ├── sch-055.pdf
+    │   ├── sch-056.pdf
+    │   ├── sch-057.pdf
+    │   ├── sch-058.pdf
+    │   ├── sch-059.pdf
+    │   ├── sch-060.pdf
+    │   ├── sch-061.pdf
+    │   ├── sch-062.pdf
+    │   ├── sch-063.pdf
+    │   ├── sch-064.pdf
+    │   ├── sch-065.pdf
+    │   ├── sch-066.pdf
+    │   ├── sch-067.pdf
+    │   ├── sch-068.pdf
+    │   ├── sch-069.pdf
+    │   ├── sch-070.pdf
+    │   ├── sch-071.pdf
+    │   ├── sch-072.pdf
+    │   ├── sch-073.pdf
+    │   ├── sch-074.pdf
+    │   ├── sch-075.pdf
+    │   ├── sch-076.pdf
+    │   ├── sch-077.pdf
+    │   ├── sch-078.pdf
+    │   ├── sch-079.pdf
+    │   ├── sch-080.pdf
+    │   ├── sch-081.pdf
+    │   ├── sch-082.pdf
+    │   ├── sch-083.pdf
+    │   ├── sch-084.pdf
+    │   ├── sch-085.pdf
+    │   ├── sch-086.pdf
+    │   ├── sch-087.pdf
+    │   ├── sch-088.pdf
+    │   ├── sch-089.pdf
+    │   ├── sch-090.pdf
+    │   ├── sch-091.pdf
+    │   ├── sch-092.pdf
+    │   ├── sch-093.pdf
+    │   ├── sch-094.pdf
+    │   ├── sch-095.pdf
+    │   ├── sch-096.pdf
+    │   ├── sch-097.pdf
+    │   ├── sch-098.pdf
+    │   ├── sch-099.pdf
+    │   ├── sch-100.pdf
+    │   ├── sch-101.pdf
+    │   ├── sch-102.pdf
+    │   ├── sch-103.pdf
+    │   ├── sch-104.pdf
+    │   ├── sch-105.pdf
+    │   ├── sch-106.pdf
+    │   ├── sch-107.pdf
+    │   ├── sch-108.pdf
+    │   ├── sch-109.pdf
+    │   ├── sch-110.pdf
+    │   ├── sch-111.pdf
+    │   ├── sch-112.pdf
+    │   ├── sch-113.pdf
+    │   ├── sch-114.pdf
+    │   ├── sch-115.pdf
+    │   ├── sch-116.pdf
+    │   ├── sch-117.pdf
+    │   ├── sch-118.pdf
+    │   ├── sch-119.pdf
+    │   ├── sch-120.pdf
+    │   ├── sch-121.pdf
+    │   ├── sch-122.pdf
+    │   ├── sch-123.pdf
+    │   ├── sch-124.pdf
+    │   ├── sch-125.pdf
+    │   ├── sch-126.pdf
+    │   ├── sch-127.pdf
+    │   ├── sch-128.pdf
+    │   ├── sch-129.pdf
+    │   ├── sch-130.pdf
+    │   ├── sch-131.pdf
+    │   ├── sch-132.pdf
+    │   ├── sch-133.pdf
+    │   ├── sch-134.pdf
+    │   ├── sch-135.pdf
+    │   ├── sch-136.pdf
+    │   ├── sch-137.pdf
+    │   ├── sch-138.pdf
+    │   ├── sch-139.pdf
+    │   ├── sch-140.pdf
+    │   ├── sch-141.pdf
+    │   ├── sch-142.pdf
+    │   ├── sch-143.pdf
+    │   ├── sch-144.pdf
+    │   ├── sch-145.pdf
+    │   ├── sch-146.pdf
+    │   ├── sch-147.pdf
+    │   ├── sch-148.pdf
+    │   ├── sch-149.pdf
+    │   ├── sch-150.pdf
+    │   ├── sch-151.pdf
+    │   ├── sch-152.pdf
+    │   ├── sch-153.pdf
+    │   ├── sch-154.pdf
+    │   ├── sch-155.pdf
+    │   ├── sch-156.pdf
+    │   ├── sch-157.pdf
+    │   ├── sch-158.pdf
+    │   ├── sch-159.pdf
+    │   ├── sch-160.pdf
+    │   ├── sch-161.pdf
+    │   ├── sch-162.pdf
+    │   ├── sch-163.pdf
+    │   ├── sch-164.pdf
+    │   ├── sch-165.pdf
+    │   ├── sch-166.pdf
+    │   ├── sch-167.pdf
+    │   ├── sch-168.pdf
+    │   ├── sch-169.pdf
+    │   ├── sch-170.pdf
+    │   ├── sch-171.pdf
+    │   ├── sch-172.pdf
+    │   ├── sch-173.pdf
+    │   ├── sch-174.pdf
+    │   ├── sch-175.pdf
+    │   ├── sch-176.pdf
+    │   ├── sch-177.pdf
+    │   ├── sch-178.pdf
+    │   ├── sch-179.pdf
+    │   ├── sch-180.pdf
+    │   ├── sch-181.pdf
+    │   ├── sch-182.pdf
+    │   ├── sch-183.pdf
+    │   ├── sch-184.pdf
+    │   ├── sch-185.pdf
+    │   ├── sch-186.pdf
+    │   ├── sch-187.pdf
+    │   ├── sch-188.pdf
+    │   ├── sch-189.pdf
+    │   ├── sch-190.pdf
+    │   ├── sch-191.pdf
+    │   ├── sch-192.pdf
+    │   ├── sch-193.pdf
+    │   ├── sch-194.pdf
+    │   ├── sch-195.pdf
+    │   ├── sch-196.pdf
+    │   ├── sch-197.pdf
+    │   ├── sch-198.pdf
+    │   ├── sch-199.pdf
+    │   ├── sch-200.pdf
+    │   ├── sch-201.pdf
+    │   ├── sch-202.pdf
+    │   ├── sch-203.pdf
+    │   ├── sch-204.pdf
+    │   ├── sch-205.pdf
+    │   ├── sch-206.pdf
+    │   ├── sch-207.pdf
+    │   ├── sch-208.pdf
+    │   ├── sch-209.pdf
+    │   ├── sch-210.pdf
+    │   ├── sch-211.pdf
+    │   ├── sch-212.pdf
+    │   ├── sch-213.pdf
+    │   ├── sch-214.pdf
+    │   ├── sch-215.pdf
+    │   ├── sch-216.pdf
+    │   ├── sch-217.pdf
+    │   ├── sch-218.pdf
+    │   ├── sch-219.pdf
+    │   ├── sch-220.pdf
+    │   ├── sch-221.pdf
+    │   ├── sch-222.pdf
+    │   ├── sch-223.pdf
+    │   ├── sch-224.pdf
+    │   ├── sch-225.pdf
+    │   ├── sch-226.pdf
+    │   ├── sch-227.pdf
+    │   ├── sch-228.pdf
+    │   ├── sch-229.pdf
+    │   ├── sch-230.pdf
+    │   ├── sch-231.pdf
+    │   ├── sch-232.pdf
+    │   ├── sch-233.pdf
+    │   ├── sch-234.pdf
+    │   ├── sch-235.pdf
+    │   ├── sch-236.pdf
+    │   ├── sch-237.pdf
+    │   ├── sch-238.pdf
+    │   ├── sch-239.pdf
+    │   ├── sch-240.pdf
+    │   ├── sch-241.pdf
+    │   ├── sch-242.pdf
+    │   ├── sch-243.pdf
+    │   ├── sch-244.pdf
+    │   ├── sch-245.pdf
+    │   ├── sch-246.pdf
+    │   ├── sch-247.pdf
+    │   ├── sch-248.pdf
+    │   ├── sch-249.pdf
+    │   ├── sch-250.pdf
+    │   ├── sch-251.pdf
+    │   ├── sch-252.pdf
+    │   ├── sch-253.pdf
+    │   ├── sch-254.pdf
+    │   ├── sch-255.pdf
+    │   ├── sch-256.pdf
+    │   ├── sch-257.pdf
+    │   ├── sch-258.pdf
+    │   ├── sch-259.pdf
+    │   ├── sch-260.pdf
+    │   ├── sch-261.pdf
+    │   ├── sch-262.pdf
+    │   ├── sch-263.pdf
+    │   ├── sch-264.pdf
+    │   ├── sch-265.pdf
+    │   ├── sch-266.pdf
+    │   ├── sch-267.pdf
+    │   ├── sch-268.pdf
+    │   ├── sch-269.pdf
+    │   ├── sch-270.pdf
+    │   ├── sch-271.pdf
+    │   ├── sch-272.pdf
+    │   ├── sch-273.pdf
+    │   ├── sch-274.pdf
+    │   ├── sch-275.pdf
+    │   ├── sch-276.pdf
+    │   ├── sch-277.pdf
+    │   ├── sch-278.pdf
+    │   ├── sch-279.pdf
+    │   ├── sch-280.pdf
+    │   ├── sch-281.pdf
+    │   ├── sch-282.pdf
+    │   ├── sch-283.pdf
+    │   ├── sch-284.pdf
+    │   ├── sch-285.pdf
+    │   ├── sch-286.pdf
+    │   ├── sch-287.pdf
+    │   ├── sch-288.pdf
+    │   ├── sch-289.pdf
+    │   ├── sch-290.pdf
+    │   ├── sch-291.pdf
+    │   ├── sch-292.pdf
+    │   ├── sch-293.pdf
+    │   ├── sch-294.pdf
+    │   ├── sch-295.pdf
+    │   ├── sch-296.pdf
+    │   ├── sch-297.pdf
+    │   ├── sch-298.pdf
+    │   ├── sch-299.pdf
+    │   ├── sch-300.pdf
+    │   ├── sch-301.pdf
+    │   ├── sch-302.pdf
+    │   ├── sch-303.pdf
+    │   ├── sch-304.pdf
+    │   ├── sch-305.pdf
+    │   ├── sch-306.pdf
+    │   ├── sch-307.pdf
+    │   ├── sch-308.pdf
+    │   ├── sch-309.pdf
+    │   ├── sch-310.pdf
+    │   ├── sch-311.pdf
+    │   ├── sch-312.pdf
+    │   ├── sch-313.pdf
+    │   ├── sch-314.pdf
+    │   ├── sch-315.pdf
+    │   ├── sch-316.pdf
+    │   ├── sch-317.pdf
+    │   ├── sch-318.pdf
+    │   ├── sch-319.pdf
+    │   ├── sch-320.pdf
+    │   ├── sch-321.pdf
+    │   ├── sch-322.pdf
+    │   ├── sch-323.pdf
+    │   ├── sch-324.pdf
+    │   ├── sch-325.pdf
+    │   ├── sch-326.pdf
+    │   ├── sch-327.pdf
+    │   ├── sch-328.pdf
+    │   ├── sch-329.pdf
+    │   ├── sch-330.pdf
+    │   ├── sch-331.pdf
+    │   ├── sch-332.pdf
+    │   ├── sch-333.pdf
+    │   ├── sch-334.pdf
+    │   ├── sch-335.pdf
+    │   ├── sch-336.pdf
+    │   ├── sch-337.pdf
+    │   ├── sch-338.pdf
+    │   ├── sch-339.pdf
+    │   ├── sch-340.pdf
+    │   ├── sch-341.pdf
+    │   ├── sch-342.pdf
+    │   ├── sch-343.pdf
+    │   ├── sch-344.pdf
+    │   ├── sch-345.pdf
+    │   ├── sch-346.pdf
+    │   ├── sch-347.pdf
+    │   ├── sch-348.pdf
+    │   ├── sch-349.pdf
+    │   ├── sch-350.pdf
+    │   ├── sch-351.pdf
+    │   ├── sch-352.pdf
+    │   ├── sch-353.pdf
+    │   ├── sch-354.pdf
+    │   ├── sch-355.pdf
+    │   ├── sch-356.pdf
+    │   ├── sch-357.pdf
+    │   ├── sch-358.pdf
+    │   ├── sch-359.pdf
+    │   ├── sch-360.pdf
+    │   ├── sch-361.pdf
+    │   ├── sch-362.pdf
+    │   ├── sch-363.pdf
+    │   ├── sch-364.pdf
+    │   ├── sch-365.pdf
+    │   ├── sch-366.pdf
+    │   ├── sch-367.pdf
+    │   ├── sch-368.pdf
+    │   ├── sch-369.pdf
+    │   ├── sch-370.pdf
+    │   ├── sch-371.pdf
+    │   ├── sch-372.pdf
+    │   ├── sch-373.pdf
+    │   ├── sch-374.pdf
+    │   ├── sch-375.pdf
+    │   ├── sch-376.pdf
+    │   ├── sch-377.pdf
+    │   ├── sch-378.pdf
+    │   ├── sch-379.pdf
+    │   ├── sch-380.pdf
+    │   ├── sch-381.pdf
+    │   ├── sch-382.pdf
+    │   ├── sch-383.pdf
+    │   ├── sch-384.pdf
+    │   ├── sch-385.pdf
+    │   ├── sch-386.pdf
+    │   ├── sch-387.pdf
+    │   ├── sch-388.pdf
+    │   ├── sch-389.pdf
+    │   ├── sch-390.pdf
+    │   ├── sch-391.pdf
+    │   ├── sch-392.pdf
+    │   ├── sch-393.pdf
+    │   ├── sch-394.pdf
+    │   ├── sch-395.pdf
+    │   ├── sch-396.pdf
+    │   ├── sch-397.pdf
+    │   └── sch-398.pdf
+    ├── sqlite
+    │   ├── input.txt
+    │   ├── make_input.php
+    │   ├── redo.sh
+    │   ├── sch.sql
+    │   └── sch.sqlite
+    ├── temp
+    ├── utilities
+    │   ├── old
+    │   │   ├── transcoder_entites_v1.php
+    │   │   └── transcoder.php
+    │   ├── test
+    │   │   ├── slp1_deva1.xml
+    │   │   ├── slp1_deva.xml
+    │   │   ├── slp1_romanejf.xml
+    │   │   ├── slp1_roman.xml
+    │   │   ├── temp
+    │   │   ├── temp.php
+    │   │   ├── testdeva.php
+    │   │   ├── testroman2.html
+    │   │   ├── testroman2.php
+    │   │   └── testroman.php
+    │   ├── transcoder
+    │   │   ├── as_roman.xml
+    │   │   ├── deva_slp1.xml
+    │   │   ├── hk_slp1.xml
+    │   │   ├── itrans_slp1.xml
+    │   │   ├── old
+    │   │   │   ├── as_roman.xml
+    │   │   │   ├── roman_slp1.xml
+    │   │   │   ├── slp1_deva-20131129.xml
+    │   │   │   ├── slp1_deva.xml
+    │   │   │   ├── slp1_roman-20131128.cml
+    │   │   │   ├── slp1_roman_20131204a.xml
+    │   │   │   ├── slp1_roman_20131204.xml
+    │   │   │   ├── slp1_roman_20131205.xml
+    │   │   │   ├── slp1_roman_pms.xml
+    │   │   │   ├── slp1_roman_v1.xml
+    │   │   │   ├── slp1_romanv1.xml
+    │   │   │   └── slp1_roman.xml
+    │   │   ├── pms
+    │   │   │   └── transcoders_pms_2013Nov23.zip
+    │   │   ├── roman_slp1.xml
+    │   │   ├── slp1_as.xml
+    │   │   ├── slp1_deva.xml
+    │   │   ├── slp1_hk.xml
+    │   │   ├── slp1_itrans.xml
+    │   │   ├── slp1_romanpms.xml
+    │   │   ├── slp1_roman.xml
+    │   │   ├── slp1_wx.xml
+    │   │   └── wx_slp1.xml
+    │   └── transcoder.php
+    ├── webtc
+    │   ├── a_roman.html
+    │   ├── corr_1_test.html
+    │   ├── corr2.php
+    │   ├── corr_2_test.html
+    │   ├── corrections.php
+    │   ├── dal_sqlite.php
+    │   ├── disp.php
+    │   ├── disp_servepdf.php
+    │   ├── download.html
+    │   ├── getword.php
+    │   ├── help.html
+    │   ├── indexcaller.php
+    │   ├── main.css
+    │   ├── main_webtc.js
+    │   ├── old
+    │   │   ├── corrections.php
+    │   │   ├── disp-20141230.php
+    │   │   ├── disp.php
+    │   │   ├── disp_servepdf.php
+    │   │   ├── indexcaller.php
+    │   │   └── main.css
+    │   ├── pdffiles.txt
+    │   ├── serveimg.css
+    │   ├── servepdf.php
+    │   └── translithelp.html
+    ├── webtc1
+    │   ├── disphier.php
+    │   ├── error.xml
+    │   ├── help
+    │   │   ├── accents.html
+    │   │   ├── ack.html
+    │   │   ├── definition.html
+    │   │   ├── help.css
+    │   │   ├── help.html
+    │   │   ├── help.js
+    │   │   ├── helpmain.html
+    │   │   ├── images
+    │   │   │   ├── aham1_scan.PNG
+    │   │   │   ├── aham2_scan.PNG
+    │   │   │   ├── aham_deva.PNG
+    │   │   │   ├── aham_roman.PNG
+    │   │   │   ├── anudatta_deva.PNG
+    │   │   │   ├── anudatta_roman.PNG
+    │   │   │   ├── anudatta_scan.PNG
+    │   │   │   ├── svarita_deva.PNG
+    │   │   │   ├── svarita_roman.PNG
+    │   │   │   ├── svarita_scan.PNG
+    │   │   │   ├── udatta_deva.PNG
+    │   │   │   ├── udatta_roman.PNG
+    │   │   │   └── udatta_scan.PNG
+    │   │   ├── input.html
+    │   │   ├── keyboard.html
+    │   │   ├── links.html
+    │   │   ├── list.html
+    │   │   ├── phonetic.html
+    │   │   ├── preferences.html
+    │   │   └── system.html
+    │   ├── index.php
+    │   ├── keyboard.css
+    │   ├── keyboard.js
+    │   ├── keyboard.png
+    │   ├── listhier.php
+    │   ├── listhierskip.php
+    │   ├── main.css
+    │   ├── main.js
+    │   ├── old
+    │   │   └── index.php
+    │   ├── preferences.htm
+    │   ├── transcoderfield_VKI.js
+    │   └── transcoderjs
+    │       ├── transcoder3.js
+    │       └── transcoderJson.js
+    └── webtc2
+        ├── error.xml
+        ├── help.html
+        ├── index.php
+        ├── init_query.php
+        ├── init_query.sh
+        ├── main.css
+        ├── main.js
+        ├── old
+        │   ├── index.php
+        │   └── main.js
+        ├── query_dump.txt
+        ├── query_gather.php
+        ├── query_multi.php
+        ├── query.php
+        ├── temp
+        ├── temp.php
+        └── tempwork
+            ├── index.php
+            ├── init_query.php
+            ├── main.js
+            ├── query_gather.php
+            ├── query_multi.php
+            └── query.php
+
+71 directories, 1412 files
