@@ -1,0 +1,15 @@
+33101 old °{%kukāmin%}¦ = [greek]duserOs[greek], Bodhicaryāv. 8, 73. {part=,seq=10870,type=°,n=1}
+33101 new °{%kukāmin%}¦ = <lang n="greek">δυσέρως</lang>, Bodhicaryāv. 8, 73. {part=,seq=10870,type=°,n=1}
+;-----------------
+43190 old {%juka%}¦ m. [greek]zugon[greek] die Wage im Tierkreise, M. Müller, Ren. 326. Richtig {%jūka%}, vgl. Ind. St. 2, 259. {part=,seq=14185,type=,n=3}
+43190 new {%juka%}¦ m. <lang n="greek">ζυγόν</lang> die Wage im Tierkreise, M. Müller, Ren. 326. Richtig {%jūka%}, vgl. Ind. St. 2, 259. {part=,seq=14185,type=,n=3}
+;-----------------
+43364 old {%jyeṣṭhamalla%}¦ superior (cf. [greek]triaktEr[greek]) Harṣac. 85, 15. {part=,seq=14242,type=,n=2}
+43364 new {%jyeṣṭhamalla%}¦ superior (cf. <lang n="greek">τριαϰτήρ</lang>) Harṣac. 85, 15. {part=,seq=14242,type=,n=2}
+;-----------------
+56866 old 5. {%pārtha%}¦ m. und {%pārthona%} m. = [greek]parthenos[greek], die Jungfrau im Tierkreise, M. Müller, Ren. 326. {part=,seq=18669,type=,n=3}
+56866 new 5. {%pārtha%}¦ m. und {%pārthona%} m. = <lang n="greek">παρϑένος</lang>, die Jungfrau im Tierkreise, M. Müller, Ren. 326. {part=,seq=18669,type=,n=3}
+;-----------------
+76241 old {%Śakasthāna%}¦ , l. [greek]ZakastEnE[greek] {part=,seq=25031,type=,n=1}
+76241 new {%Śakasthāna%}¦ , l. <lang n="greek">Ζαϰαστηνη</lang> {part=,seq=25031,type=,n=1}
+;-----------------
