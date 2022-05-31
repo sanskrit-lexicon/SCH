@@ -1,0 +1,462 @@
+480 old {%akṛtaprathamayajña%}¦ Adj. der das erste Opfer noch nicht vollzogen hat, Bhārgava im Komm. zu Āpast. Sr. 9, 12, 11. {part=,seq=157,type=,n=3}
+480 new {%akṛtaprathamayajña%}¦ Adj. der das erste Opfer noch nicht vollzogen hat, Bhārgava im Komm. zu Āpast. Śr. 9, 12, 11. {part=,seq=157,type=,n=3}
+;-----------------
+806 old {%akṣarasadhātu%}¦ n. eine best. Singweise, Lāty. 7, 9, 8. {part=,seq=264,type=,n=2}
+806 new {%akṣarasadhātu%}¦ n. eine best. Singweise, Lāṭy. 7, 9, 8. {part=,seq=264,type=,n=2}
+;-----------------
+1097 old *{%agadaṃkāra%}¦ m. Arzt, Śrik. XVII, 63 (Ko.); XXIV, 7. 38; XXV, 99; Naiṣ. 4, 116; S II, 306, 7; Daśak. 34, 15. {part=,seq=360,type=*,n=3}
+1097 new *{%agadaṃkāra%}¦ m. Arzt, Śrīk. XVII, 63 (Ko.); XXIV, 7. 38; XXV, 99; Naiṣ. 4, 116; S II, 306, 7; Daśak. 34, 15. {part=,seq=360,type=*,n=3}
+;-----------------
+1486 old 2. {%agnihotra%}¦ m. Du. Śāùkh. Śr. 14, 3, 15 nach dem Komm. = {%agnihotrasaṃjñakau dvau haviryajñasomau%}. {part=,seq=488,type=,n=3}
+1486 new 2. {%agnihotra%}¦ m. Du. Śāṅkh. Śr. 14, 3, 15 nach dem Komm. = {%agnihotrasaṃjñakau dvau haviryajñasomau%}. {part=,seq=488,type=,n=3}
+;-----------------
+1836 old {%Aṅkurārpaṇavidhi%}¦ m. Titel eines Werkes, Bühler Rep. No. 561. {part=,seq=603,type=,n=2}
+1836 new {%Aṅkurārpaṇavidhi%}¦ m. Titel eines Werkes, Bühler, Rep. No. 561. {part=,seq=603,type=,n=2}
+;-----------------
+1913 old {%aṅgabhaṅga%}¦ m. (adj. Komp. f. {%ā%}) das Strecken oder Dehnen der Glieder, Caurap. (A) 92. 95. 103; Śṛṅgt. 66<sup>d</sup>; H 49, 36; Kāvyāl. XII, 35; Daśar. IV, 23. — Wohl Gliederbruch, Subhāṣitāv. 604. {part=,seq=628,type=,n=5}
+1913 new {%aṅgabhaṅga%}¦ m. (adj. Komp. f. {%ā%}) das Strecken oder Dehnen der Glieder, Caurap. (A.) 92. 95. 103; Śṛṅgt. 66<sup>d</sup>; H 49, 36; Kāvyāl. XII, 35; Daśar. IV, 23. — Wohl Gliederbruch, Subhāṣitāv. 604. {part=,seq=628,type=,n=5}
+;-----------------
+2202 old {%acāturmāsya%}¦ Adj. ohne cāturmāsya-Opfer, Muṇḍ. -Up. 1, 2, 3. {part=,seq=723,type=,n=2}
+2202 new {%acāturmāsya%}¦ Adj. ohne cāturmāsya-Opfer, Muṇḍ. Up. 1, 2, 3. {part=,seq=723,type=,n=2}
+;-----------------
+2427 old *{%Ajakranda%}¦ m. Pl. N. pr. einer Völkerschaft, Kaś. zu P. 4, 2, 125. {part=,seq=797,type=*,n=2}
+2427 new *{%Ajakranda%}¦ m. Pl. N. pr. einer Völkerschaft, Kāś. zu P. 4, 2, 125. {part=,seq=797,type=*,n=2}
+;-----------------
+4476 old {%atyasadṛśa%}¦ überaus unangemessen, Nais. 5, 115. {part=,seq=1471,type=,n=2}
+4476 new {%atyasadṛśa%}¦ überaus unangemessen, Naiṣ. 5, 115. {part=,seq=1471,type=,n=2}
+;-----------------
+4637 old 1. {%ad%}¦ , Kaus. {%adayate%} (!) Āpast. Sr. 5, 25, 18. — Zu streichen, da an der angeführten Stelle nach Delbrück {%dadan na dayīta%} zu trennen ist. {part=,seq=1523,type=,n=4}
+4637 new 1. {%ad%}¦ , Kaus. {%adayate%} (!) Āpast. Śr. 5, 25, 18. — Zu streichen, da an der angeführten Stelle nach Delbrück {%dadan na dayīta%} zu trennen ist. {part=,seq=1523,type=,n=4}
+;-----------------
+4686 old {%ádabhra%}¦ auch: stark, intensiv. {%°m%} Adv. nicht wenig, sehr, Vikramāùkac. 13, 25. {part=,seq=1539,type=,n=2}
+4686 new {%ádabhra%}¦ auch: stark, intensiv. {%°m%} Adv. nicht wenig, sehr, Vikramāṅkac. 13, 25. {part=,seq=1539,type=,n=2}
+;-----------------
+4813 old {%aduḥkha%}¦ n. kein Leid, -x- Weh, Saṃ-hitopan. 35, 10. {part=,seq=1581,type=,n=2}
+4813 new {%aduḥkha%}¦ n. kein Leid, -x- Weh, Saṃhitopan. 35, 10. {part=,seq=1581,type=,n=2}
+;-----------------
+4901 old {%adevajuṣṭa%}¦ Adj. den Göttern nicht angenehm, Aitt. Br. 2, 5, 9. {part=,seq=1610,type=,n=2}
+4901 new {%adevajuṣṭa%}¦ Adj. den Göttern nicht angenehm, Ait. Br. 2, 5, 9. {part=,seq=1610,type=,n=2}
+;-----------------
+4956 old {%adbhutakara%}¦ Adj. (f. {%ī%}) in Staunen versetzend, Nais. 4, 55. {part=,seq=1628,type=,n=2}
+4956 new {%adbhutakara%}¦ Adj. (f. {%ī%}) in Staunen versetzend, Naiṣ. 4, 55. {part=,seq=1628,type=,n=2}
+;-----------------
+4977 old {%adyayajña%}¦ m. das heutige Opfer, Komm. zu Āpast. Sr. 4, 1, 8. {part=,seq=1635,type=,n=2}
+4977 new {%adyayajña%}¦ m. das heutige Opfer, Komm. zu Āpast. Śr. 4, 1, 8. {part=,seq=1635,type=,n=2}
+;-----------------
+5208 old {%adhātu%}¦ m. keine Region, Vajraccs. 29, 11. {part=,seq=1711,type=,n=1}
+5208 new {%adhātu%}¦ m. keine Region, Vajracch. 29, 11. {part=,seq=1711,type=,n=1}
+;-----------------
+5439 old °{%adhimuñcam%}¦ Adv.? Sṛṅgārasarv. 50<sup>a</sup>. {part=,seq=1787,type=°,n=1}
+5439 new °{%adhimuñcam%}¦ Adv.? Śṛṅgārasarv. 50<sup>a</sup>. {part=,seq=1787,type=°,n=1}
+;-----------------
+5668 old {%adhūnvant%}¦ Adj. nicht bewegend, Taṇḍya-Br. 7, 9, 9. {part=,seq=1862,type=,n=2}
+5668 new {%adhūnvant%}¦ Adj. nicht bewegend, Tāṇḍya-Br. 7, 9, 9. {part=,seq=1862,type=,n=2}
+;-----------------
+6332 old {%anantarāya%}¦ °Adj. = {%nirvighna%}, S I, 276, 4; 423, 7. — m. N. pr. eines Mannes, Ind. Antiqu. 1878, S. 7. {part=,seq=2080,type=,n=3}
+6332 new {%anantarāya%}¦ °Adj. = {%nirvighna%}, S I, 276, 4; 423, 7. — m. N. pr. eines Mannes, Ind. Antiq. 1878, S. 7. {part=,seq=2080,type=,n=3}
+;-----------------
+6520 old {%anaparódhya%}¦ Adj. nicht aus seinem Besitz zu vertreiben, Taitt. Aªr. 6. 5, 2. {part=,seq=2142,type=,n=3}
+6520 new {%anaparódhya%}¦ Adj. nicht aus seinem Besitz zu vertreiben, Taitt. Ār. 6. 5, 2. {part=,seq=2142,type=,n=3}
+;-----------------
+6566 old {%anapisomapītha%}¦ Adj. keinen Anteil am Soma-Trunk habend, Śāùkh. Śr. 14, 62, 2. {part=,seq=2157,type=,n=3}
+6566 new {%anapisomapītha%}¦ Adj. keinen Anteil am Soma-Trunk habend, Śāṅkh. Śr. 14, 62, 2. {part=,seq=2157,type=,n=3}
+;-----------------
+7087 old {%anākasmika%}¦ Adj. nicht zufällig, Dasak. (1925) 2, 93, 16. {part=,seq=2328,type=,n=2}
+7087 new {%anākasmika%}¦ Adj. nicht zufällig, Daśak. (1925) 2, 93, 16. {part=,seq=2328,type=,n=2}
+;-----------------
+7370 old {%ánāyata%}¦ auch: nicht lang, kurz, Kathas. 34, 199. {part=,seq=2421,type=,n=2}
+7370 new {%ánāyata%}¦ auch: nicht lang, kurz, Kathās. 34, 199. {part=,seq=2421,type=,n=2}
+;-----------------
+7501 old °{%anāśritarūpatā%}¦ f. Unabhängigkeit, Praty, Hṛd. 12, 8. [B.] {part=,seq=2464,type=°,n=2}
+7501 new °{%anāśritarūpatā%}¦ f. Unabhängigkeit, Praty. Hṛd. 12, 8. [B.] {part=,seq=2464,type=°,n=2}
+;-----------------
+8975 old {%anusaraṇa%}¦ auch: das Besuchen, Viṣṇuṣ. 35, 6; 36, 8. {part=,seq=2948,type=,n=2}
+8975 new {%anusaraṇa%}¦ auch: das Besuchen, Viṣṇus. 35, 6; 36, 8. {part=,seq=2948,type=,n=2}
+;-----------------
+9014 old {%anūcyamānatva%}¦ n. das Studiertwerden, Śaṃk zu Bṛh Ār. Up. S. 3. {part=,seq=2961,type=,n=2}
+9014 new {%anūcyamānatva%}¦ n. das Studiertwerden, Śaṃk zu Bṛh. Ār. Up. S. 3. {part=,seq=2961,type=,n=2}
+;-----------------
+9568 old {%antaśas%}¦ Adv. wäre es auch nur, sogar, mit einer Negation: nicht einmal, Vajracch. 25, 2; 28, 7, 11; 30, 1; 46, 1; Saddh. P. (Hdschr.) 62, a.—Divyāvad. 161, 24. {part=,seq=3143,type=,n=5}
+9568 new {%antaśas%}¦ Adv. wäre es auch nur, sogar, mit einer Negation: nicht einmal, Vajracch. 25, 2; 28, 7, 11; 30, 1; 46, 1; Saddh. P. (Hdschr.) 62, a. — Divyāvad. 161, 24. {part=,seq=3143,type=,n=5}
+;-----------------
+9729 old {%annarasa%}¦ m. Speisegeschmack, Kaus. Up. 3, 5. {part=,seq=3196,type=,n=2}
+9729 new {%annarasa%}¦ m. Speisegeschmack, Kauṣ. Up. 3, 5. {part=,seq=3196,type=,n=2}
+;-----------------
+9794 old {%anyatrakaraṇa%}¦ m. der Sohn eines Buhlen, Śāùkh. Gṛhy. 3, 13. {part=,seq=3217,type=,n=2}
+9794 new {%anyatrakaraṇa%}¦ m. der Sohn eines Buhlen, Śāṅkh. Gṛhy. 3, 13. {part=,seq=3217,type=,n=2}
+;-----------------
+9867 old {%anyūnātiriktāṅga%}¦ Adj. kein Glied zu wenig oder zuviel habend, Āśv. Gṛh. 1, 23, 1. {part=,seq=3241,type=,n=3}
+9867 new {%anyūnātiriktāṅga%}¦ Adj. kein Glied zu wenig oder zuviel habend, Āśv. Gṛhy. 1, 23, 1. {part=,seq=3241,type=,n=3}
+;-----------------
+10101 old {%apaciti%}¦ 1. auch: Verehrung, Śiś. 1, 17; Āpast. Gṛhy. 13, 2. [S 1, 430. 5.] — ° = {%saṃkoca%} und {%pūjā%} [pw *Verlust], Śrīk, XVI, 7. {part=,seq=3318,type=,n=4}
+10101 new {%apaciti%}¦ 1. auch: Verehrung, Śiś. 1, 17; Āpast. Gṛhy. 13, 2. [S 1, 430. 5.] — ° = {%saṃkoca%} und {%pūjā%} [pw *Verlust], Śrīk. XVI, 7. {part=,seq=3318,type=,n=4}
+;-----------------
+10213 old {%apadvāra%}¦ n. Seitentür, Pūrṇābh. 210. 22 [im pw nach Galanos.]. {part=,seq=3355,type=,n=2}
+10213 new {%apadvāra%}¦ n. Seitentür, Pūrṇabh. 210. 22 [im pw nach Galanos.]. {part=,seq=3355,type=,n=2}
+;-----------------
+10551 old {%apariniṣṭhita%}¦ Adj. unerfahren in (Lok.), Hariv. 5672; Suśr. 1, 12, 10. Fehlerhaft für {%apariveṣṭita%}, Hariv, 5262. {part=,seq=3466,type=,n=3}
+10551 new {%apariniṣṭhita%}¦ Adj. unerfahren in (Lok.), Hariv. 5672; Suśr. 1, 12, 10. Fehlerhaft für {%apariveṣṭita%}, Hariv. 5262. {part=,seq=3466,type=,n=3}
+;-----------------
+11199 old {%apunarnivṛtti%}¦ f. Nichtwiederkehr, Śis. 14, 64. {part=,seq=3679,type=,n=2}
+11199 new {%apunarnivṛtti%}¦ f. Nichtwiederkehr, Śiś. 14, 64. {part=,seq=3679,type=,n=2}
+;-----------------
+11311 old {%apauṣkalya%}¦ n. das nicht vollkommen Ausgebildetsein, Unreife, Bhäg. P. 4, 29, 72. {part=,seq=3716,type=,n=3}
+11311 new {%apauṣkalya%}¦ n. das nicht vollkommen Ausgebildetsein, Unreife, Bhāg. P. 4, 29, 72. {part=,seq=3716,type=,n=3}
+;-----------------
+11524 old {%apratinandita%}¦ Adj. zurückgestoßen, verstoßen von (Instr.), Bhäg. P. 4, 4, 8. {part=,seq=3786,type=,n=3}
+11524 new {%apratinandita%}¦ Adj. zurückgestoßen, verstoßen von (Instr.), Bhāg. P. 4, 4, 8. {part=,seq=3786,type=,n=3}
+;-----------------
+11725 old {%apratyutthāyin%}¦ Adj. nicht ehrerbietig aufstehend, Bhäg. P. 10, 78, 23. {part=,seq=3852,type=,n=2}
+11725 new {%apratyutthāyin%}¦ Adj. nicht ehrerbietig aufstehend, Bhāg. P. 10, 78, 23. {part=,seq=3852,type=,n=2}
+;-----------------
+13199 old {%abhyāgāre%}¦ Lok. im Hause, Āsv. Gṛhy. 2, 3, 3. {part=,seq=4337,type=,n=2}
+13199 new {%abhyāgāre%}¦ Lok. im Hause, Āśv. Gṛhy. 2, 3, 3. {part=,seq=4337,type=,n=2}
+;-----------------
+13205 old {%abhyācara%}¦ m. Bereich, Mān. Gṛhy, 2, 7. Statt {%°care%} hat Pār. Gṛhy. {%abhyācāre%}, Āśv. Gṛhy. {%abhyāgāre%}. {part=,seq=4339,type=,n=3}
+13205 new {%abhyācara%}¦ m. Bereich, Mān. Gṛhy. 2, 7. Statt {%°care%} hat Pār. Gṛhy. {%abhyācāre%}, Āśv. Gṛhy. {%abhyāgāre%}. {part=,seq=4339,type=,n=3}
+;-----------------
+13783 old {%amūlya%}¦ Adj. unschätzbar, Vikramāṅ-kac. 8, 8. {part=,seq=4529,type=,n=2}
+13783 new {%amūlya%}¦ Adj. unschätzbar, Vikramāṅkac. 8, 8. {part=,seq=4529,type=,n=2}
+;-----------------
+14543 old *{%araṇyacārī%}¦ f. eine best. Pflanze, Deśin. 2, 6. {part=,seq=4779,type=*,n=2}
+14543 new *{%araṇyacārī%}¦ f. eine best. Pflanze, Deśīn. 2, 6. {part=,seq=4779,type=*,n=2}
+;-----------------
+14871 old {%arogitva%}¦ n. Gesundheit, Yajñ. 1, 263. {part=,seq=4887,type=,n=1}
+14871 new {%arogitva%}¦ n. Gesundheit, Yājñ. 1, 263. {part=,seq=4887,type=,n=1}
+;-----------------
+15826 old {%aluñca%}¦ Adj. etwa: der einen nicht rupft und zupft, Bhar. Nāṭyaś. 34, 102. {part=,seq=5201,type=,n=2}
+15826 new {%aluñca%}¦ Adj. etwa: der einen nicht rupft und zupft, Bhār. Nāṭyaś. 34, 102. {part=,seq=5201,type=,n=2}
+;-----------------
+16282 old {%avana%}¦ 1. m. Retter, Sobh. 45. 93. — 2. f. {%ī%} N. pr. eines Flusses, Hariv. 2, 109, 21. — Adj. behütend, beschützend, Dharmaśarm. 10, 5. {part=,seq=5351,type=,n=1}
+16282 new {%avana%}¦ 1. m. Retter, Śobh. 45. 93. — 2. f. {%ī%} N. pr. eines Flusses, Hariv. 2, 109, 21. — Adj. behütend, beschützend, Dharmaśarm. 10, 5. {part=,seq=5351,type=,n=1}
+;-----------------
+16808 old *{%avasnāna%}¦ n. Mehl von Linsen usw., Deśin. 2, 110. {part=,seq=5524,type=*,n=2}
+16808 new *{%avasnāna%}¦ n. Mehl von Linsen usw., Deśīn. 2, 110. {part=,seq=5524,type=*,n=2}
+;-----------------
+17046 old {%avikṛṣṭa%}¦ Adj. auch: unberaubt, Alt. Br. 8, 11. {part=,seq=5602,type=,n=2}
+17046 new {%avikṛṣṭa%}¦ Adj. auch: unberaubt, Ait. Br. 8, 11. {part=,seq=5602,type=,n=2}
+;-----------------
+17457 old {%aviśaṅkita%}¦ Adj. 1. keine Scheu empfindend, nicht ängstlich, kein Bedenken habend, MBh. 5, 16, 8; Vikr. 81, 11; Märk. P. 16, 3; Rājat. 6, 330. — 2. nicht beanstandet, -x- in Zweifel gezogen, -x- mit Mißtrauen betrachtet, R. Gorr. 2, 109, 51. {part=,seq=5737,type=,n=7}
+17457 new {%aviśaṅkita%}¦ Adj. 1. keine Scheu empfindend, nicht ängstlich, kein Bedenken habend, MBh. 5, 16, 8; Vikr. 81, 11; Mārk. P. 16, 3; Rājat. 6, 330. — 2. nicht beanstandet, -x- in Zweifel gezogen, -x- mit Mißtrauen betrachtet, R. Gorr. 2, 109, 51. {part=,seq=5737,type=,n=7}
+;-----------------
+17743 old {%avyākhyeya%}¦ Adj. (f. {%ā%}) unaussprechlich, Bhām. V, 4, 17. {part=,seq=5831,type=,n=2}
+17743 new {%avyākhyeya%}¦ Adj. (f. {%ā%}) unaussprechlich, Bhām. V. 4, 17. {part=,seq=5831,type=,n=2}
+;-----------------
+17959 old {%aśimidvíṣ%}¦ , Taitt. Aªr. 1, 9, 5. — Zu streichen. {part=,seq=5902,type=,n=2}
+17959 new {%aśimidvíṣ%}¦ , Taitt. Ār. 1, 9, 5. — Zu streichen. {part=,seq=5902,type=,n=2}
+;-----------------
+18546 old {%aṣṭāmṛḍa%}¦ Adj. zu {%hiraṇya%}, Kaṭh. 13, 10. {part=,seq=6095,type=,n=2}
+18546 new {%aṣṭāmṛḍa%}¦ Adj. zu {%hiraṇya%}, Kāṭh. 13, 10. {part=,seq=6095,type=,n=2}
+;-----------------
+19651 old {%astropaniṣad%}¦ f. Waffenkunde, Mahā-vīrac. 21, 11. {part=,seq=6455,type=,n=2}
+19651 new {%astropaniṣad%}¦ f. Waffenkunde, Mahāvīrac. 21, 11. {part=,seq=6455,type=,n=2}
+;-----------------
+20566 old {%āghargharam%}¦ Adv. knurrend, Mālatim. 78, 7 (171, 5). {part=,seq=6756,type=,n=2}
+20566 new {%āghargharam%}¦ Adv. knurrend, Mālatīm. 78, 7 (171, 5). {part=,seq=6756,type=,n=2}
+;-----------------
+21913 old {%ābhāṣa%}¦ m. °Bestellung, Suk. t. o. 9 [p. 22, 1]. {part=,seq=7199,type=,n=2}
+21913 new {%ābhāṣa%}¦ m. °Bestellung, Śuk. t. o. 9 [p. 22, 1]. {part=,seq=7199,type=,n=2}
+;-----------------
+22256 old {%āyuṣya%}¦ 2. e) ein best. Spruch, Varāh, Yogay. 8, 6. {part=,seq=7312,type=,n=2}
+22256 new {%āyuṣya%}¦ 2. e) ein best. Spruch, Varāh. Yogay. 8, 6. {part=,seq=7312,type=,n=2}
+;-----------------
+23428 old *{%āhrīkya%}¦ n. Unverschämtheit, Mahavy. 104. {part=,seq=7696,type=*,n=2}
+23428 new *{%āhrīkya%}¦ n. Unverschämtheit, Mahāvy. 104. {part=,seq=7696,type=*,n=2}
+;-----------------
+23434 old {%āhlādayitar%}¦ Nom. ag. Erquicker. Nom. abstr. {%°yitṛtva%} n. Śaṃk zu Badar. 2, 3, 25. {part=,seq=7698,type=,n=3}
+23434 new {%āhlādayitar%}¦ Nom. ag. Erquicker. Nom. abstr. {%°yitṛtva%} n. Śaṃk zu Bādar. 2, 3, 25. {part=,seq=7698,type=,n=3}
+;-----------------
+23508 old {%itānta%}¦ Adj. hinübergelangt, Śiś. 19, 118 (= {%prāptapāra%} Komm.). [1. {%iti], iti ceti ca%} so und so, auf diese und jene Weise, MBh. 1, 38, 1. Vgl. auch ZDMG. 41, 516 ff.; Knauer in Festgr. 62 ff. {%iti … iti%} so v.a. man heiße (sei)... oder..., Jātakam. 20. 2. {%iti%} Gang, Viṣṇus. 99, 2, wenn {%°sadā-sthitete%} "die du stets den Gang einschlugst ({%āsthita%}) zu" gelesen wird. {part=,seq=7721,type=,n=10}
+23508 new {%itānta%}¦ Adj. hinübergelangt, Śiś. 19, 118 (= {%prāptapāra%} Komm.). [1. {%iti], iti ceti ca%} so und so, auf diese und jene Weise, MBh. 1, 38, 1. Vgl. auch ZDMG 41, 516 ff.; Knauer in Festgr. 62 ff. {%iti … iti%} so v.a. man heiße (sei)... oder..., Jātakam. 20. 2. {%iti%} Gang, Viṣṇus. 99, 2, wenn {%°sadā-sthitete%} "die du stets den Gang einschlugst ({%āsthita%}) zu" gelesen wird. {part=,seq=7721,type=,n=10}
+;-----------------
+23578 old {%indindirā%}¦ , auch {%*indindira%} m. Deśin. 1, 79. [S 2, 355, 17.] {part=,seq=7744,type=,n=4}
+23578 new {%indindirā%}¦ , auch {%*indindira%} m. Deśīn. 1, 79. [S 2, 355, 17.] {part=,seq=7744,type=,n=4}
+;-----------------
+23639 old °{%indudṛṣad%}¦ f. Mondstein, Srīk. IV, 39; X, 23. {part=,seq=7764,type=°,n=2}
+23639 new °{%indudṛṣad%}¦ f. Mondstein, Śrīk. IV, 39; X, 23. {part=,seq=7764,type=°,n=2}
+;-----------------
+24204 old {%īhāvant%}¦ Adj. strebsam, tapfer, Siś. 19, 33. {part=,seq=7948,type=,n=2}
+24204 new {%īhāvant%}¦ Adj. strebsam, tapfer, Śiś. 19, 33. {part=,seq=7948,type=,n=2}
+;-----------------
+24417 old {%uccairgati%}¦ f. das Aufsteigen, Mahā-vīrac. 127, 1. {part=,seq=8018,type=,n=2}
+24417 new {%uccairgati%}¦ f. das Aufsteigen, Mahāvīrac. 127, 1. {part=,seq=8018,type=,n=2}
+;-----------------
+24758 old °{%utkesara%}¦ Adj. emporstehende Staubfäden habend, Daśav. V, 27. {part=,seq=8130,type=°,n=1}
+24758 new °{%utkesara%}¦ Adj. emporstehende Staubfäden habend, Daśāv. V, 27. {part=,seq=8130,type=°,n=1}
+;-----------------
+25203 old {%utpuṃsana%}¦ n. das Abwischen, Wegwischen, Entfernen, Zach. Beitr.; Alaṃ-kārar. 21<sup>b</sup>; Śrīk. 8, 12 (Ko.); 25, 120 (in {%°prathotpuṃsanam = bādhanam%}. — Maṅkha 487; Komm. zu Haravijaya 14, 6; 16, 9. [Z.] {part=,seq=8276,type=,n=6}
+25203 new {%utpuṃsana%}¦ n. das Abwischen, Wegwischen, Entfernen, Zach. Beitr.; Alaṃkārar. 21<sup>b</sup>; Śrīk. 8, 12 (Ko.); 25, 120 (in {%°prathotpuṃsanam = bādhanam%}. — Maṅkha 487; Komm. zu Haravijaya 14, 6; 16, 9. [Z.] {part=,seq=8276,type=,n=6}
+;-----------------
+25215 old {%utpeṣa%}¦ m. das Zermalmen, Caṇḍiś. 20. {part=,seq=8280,type=,n=1}
+25215 new {%utpeṣa%}¦ m. das Zermalmen, Caṇḍīś. 20. {part=,seq=8280,type=,n=1}
+;-----------------
+26856 old {%upaseka%}¦ m. Zuguß, Komm. zu Āpast. Sr. 10, 3, 7. {part=,seq=8820,type=,n=2}
+26856 new {%upaseka%}¦ m. Zuguß, Komm. zu Āpast. Śr. 10, 3, 7. {part=,seq=8820,type=,n=2}
+;-----------------
+27457 old {%uṣṇīṣakuṇḍala%}¦ m. ein best. samādhi, Kārand. 51, 17 ({%ulmīṣa°%} gedr.). {part=,seq=9017,type=,n=2}
+27457 new {%uṣṇīṣakuṇḍala%}¦ m. ein best. samādhi, Kāraṇḍ. 51, 17 ({%ulmīṣa°%} gedr.). {part=,seq=9017,type=,n=2}
+;-----------------
+30209 old {%Kamalinī%}¦ °N. einer Hetäre, Śṛùgt. 18, 8 v.u. {part=,seq=9920,type=,n=2}
+30209 new {%Kamalinī%}¦ °N. einer Hetäre, Śṛṅgt. 18, 8 v.u. {part=,seq=9920,type=,n=2}
+;-----------------
+30530 old {%karikā%}¦ °Becher, Śrik. XIV, 4 (Ko.). 6. 20 (Ko.). 42 (Ko.). — = {%madyabhāṇḍa%}, Maṅkha 26; Komm. zu Haravijaya 26, 29; zu Hem. Deś. I, 71, p. 31, 6; II, 14. [Z.] {part=,seq=10025,type=,n=5}
+30530 new {%karikā%}¦ °Becher, Śrīk. XIV, 4 (Ko.). 6. 20 (Ko.). 42 (Ko.). — = {%madyabhāṇḍa%}, Maṅkha 26; Komm. zu Haravijaya 26, 29; zu Hem. Deś. I, 71, p. 31, 6; II, 14. [Z.] {part=,seq=10025,type=,n=5}
+;-----------------
+30767 old {%Karṇāy(ate)%}¦ dem Karṇa gleichen, Rudraṭālaṃkārat. 131, b. {part=,seq=10103,type=,n=2}
+30767 new {%Karṇāy(ate)%}¦ dem Karṇa gleichen, Rudraṭālaṃkāraṭ. 131, b. {part=,seq=10103,type=,n=2}
+;-----------------
+31231 old {%kali%}¦ 1. m. c) Terminalia bellerica, S II, 195, 4. — 1. i) Held, Ind.-Antiq. 8, 242. — ° = {%kāñjika%} (saurer Reisschleim), S I, 512, 9. {part=,seq=10255,type=,n=4}
+31231 new {%kali%}¦ 1. m. c) Terminalia bellerica, S II, 195, 4. — 1. i) Held, Ind. Antiq. 8, 242. — ° = {%kāñjika%} (saurer Reisschleim), S I, 512, 9. {part=,seq=10255,type=,n=4}
+;-----------------
+31537 old {%kavi%}¦ m. Wasservogel [{%ka-vi!%}], Dharmasármābhy. 5, 70. Die richtige Form für Eule ist {%kuvi%}. — Śrīk. 25, 42 (= {%haṃsa%}). {part=,seq=10356,type=,n=1}
+31537 new {%kavi%}¦ m. Wasservogel [{%ka-vi!%}], Dharmaśarmābhy. 5, 70. Die richtige Form für Eule ist {%kuvi%}. — Śrīk. 25, 42 (= {%haṃsa%}). {part=,seq=10356,type=,n=1}
+;-----------------
+31848 old {%kāṇḍera%}¦ m. Amaranthus polygonoides, Bhavapr. 1, 282. Vgl. {%kīḍera%}. {part=,seq=10458,type=,n=2}
+31848 new {%kāṇḍera%}¦ m. Amaranthus polygonoides, Bhāvapr. 1, 282. Vgl. {%kīḍera%}. {part=,seq=10458,type=,n=2}
+;-----------------
+32298 old {%kārdamika%}¦ schmutzig, Damayantik. 33. — °schlammfarbig ({%kardamena rakta%}), S II, 220, 1. {part=,seq=10606,type=,n=3}
+32298 new {%kārdamika%}¦ schmutzig, Damayantīk. 33. — °schlammfarbig ({%kardamena rakta%}), S II, 220, 1. {part=,seq=10606,type=,n=3}
+;-----------------
+32744 old {%kāhala%}¦ Adj. ° = {%gambhīra%}, S I, 247, 6; ° = {%saṃrabdha%}, Śrīk. XIX, 47. — Subst. f. ({%ā%}) °eine Art Trommel ({%kāhalāsu dhattūrapuṣpākāramukhabherīṣu%}), Yaśastilakam... *n. (nach dem Ko.) = {%asphuṭaśabda%}, S I, 102, 1 (11); Amit. 
+32744 new {%kāhala%}¦ Adj. ° = {%gambhīra%}, S I, 247, 6; ° = {%saṃrabdha%}, Śrīk. XIX, 47. — Subst. f. ({%ā%}) °eine Art Trommel ({%kāhalāsu dhattūrapuṣpākāramukhabherīṣu%}), Yaśastilakam.  *n. (nach dem Ko.) = {%asphuṭaśabda%}, S I, 102, 1 (11); Amit. 
+;-----------------
+32749 old °{%kāhalatā%}¦ = {%śabdāyamānatvam%}. Ṡrīk. XXI, 11. {part=,seq=10754,type=°,n=2}
+32749 new °{%kāhalatā%}¦ = {%śabdāyamānatvam%}. Śrīk. XXI, 11. {part=,seq=10754,type=°,n=2}
+;-----------------
+32770 old {%kiṃstya%}¦ soll = {%śaṅkha%} (Seemuschel) sein; s. JAOS, Proc. 1883, Oct. VIII. {part=,seq=10761,type=,n=2}
+32770 new {%kiṃstya%}¦ soll = {%śaṅkha%} (Seemuschel) sein; s. JAOS. Proc. 1883, Oct. VIII. {part=,seq=10761,type=,n=2}
+;-----------------
+32907 old {%kimba%}¦ m. ein best. Baum, Damayantïk. 53. {part=,seq=10806,type=,n=2}
+32907 new {%kimba%}¦ m. ein best. Baum, Damayantīk. 53. {part=,seq=10806,type=,n=2}
+;-----------------
+34484 old {%kṛtāntāy(ate)%}¦ dem Todesgotte gleichen, Rudraṭālaṃkārat. 131, b. [H 11, 50.] {part=,seq=11325,type=,n=2}
+34484 new {%kṛtāntāy(ate)%}¦ dem Todesgotte gleichen, Rudraṭālaṃkāraṭ. 131, b. [H 11, 50.] {part=,seq=11325,type=,n=2}
+;-----------------
+34982 old {%keśa%}¦ 1. f)a), Caṇḍīṣ. 23. {part=,seq=11489,type=,n=1}
+34982 new {%keśa%}¦ 1. f)a), Caṇḍīś. 23. {part=,seq=11489,type=,n=1}
+;-----------------
+35347 old {%[kauṇḍapāyín]%}¦ , {%°nām ayanam%}, Śāṅkh. Śr. 13, 24, 1; Śaṅk. zu Bādar. 3, 3, 40. {part=,seq=11609,type=,n=3}
+35347 new {%[kauṇḍapāyín]%}¦ , {%°nām ayanam%}, Śāṅkh. Śr. 13, 24, 1; Śaṃk. zu Bādar. 3, 3, 40. {part=,seq=11609,type=,n=3}
+;-----------------
+36522 old {%khaṇḍadhārā%}¦ *Schere, Daśav. VI, 11. {part=,seq=11995,type=,n=1}
+36522 new {%khaṇḍadhārā%}¦ *Schere, Daśāv. VI, 11. {part=,seq=11995,type=,n=1}
+;-----------------
+39241 old {%ghaṭ%}¦ mit {%pravi, °ghaṭita%} abgehauen, Mahāvīrāc. 26, 12; 37, 13. — Kaus. auseinander sprengen, Kir. 2, 46. {part=,seq=12887,type=,n=3}
+39241 new {%ghaṭ%}¦ mit {%pravi, °ghaṭita%} abgehauen, Mahāvīrac. 26, 12; 37, 13. — Kaus. auseinander sprengen, Kir. 2, 46. {part=,seq=12887,type=,n=3}
+;-----------------
+39676 old °{%cakoranetrā%}¦ f. eine cakora-Äugige, Śrṅgt. 67<sup>d</sup>. {part=,seq=13030,type=°,n=2}
+39676 new °{%cakoranetrā%}¦ f. eine cakora-Äugige, Śṛṅgt. 67<sup>d</sup>. {part=,seq=13030,type=°,n=2}
+;-----------------
+39695 old *{%cakkala%}¦ = {%pīṭha%}, Srīk. VII, 59 (Ko.). {part=,seq=13036,type=*,n=1}
+39695 new *{%cakkala%}¦ = {%pīṭha%}, Śrīk. VII, 59 (Ko.). {part=,seq=13036,type=*,n=1}
+;-----------------
+41748 old {%chagalikā%}¦ f. Ziege, Divyāyad. 235, 22. {part=,seq=13712,type=,n=1}
+41748 new {%chagalikā%}¦ f. Ziege, Divyāvad. 235, 22. {part=,seq=13712,type=,n=1}
+;-----------------
+43342 old {%jyāyu%}¦ angeblich = {%jyā%} Bogensehne, JAOS., Proc. 1883, Oct. VIII. {part=,seq=14235,type=,n=2}
+43342 new {%jyāyu%}¦ angeblich = {%jyā%} Bogensehne, JAOS. Proc. 1883, Oct. VIII. {part=,seq=14235,type=,n=2}
+;-----------------
+44249 old °{%tapanaduhitṛ%}¦ f. = Yamunā, Gopal. 65, 16. {part=,seq=14532,type=°,n=2}
+44249 new °{%tapanaduhitṛ%}¦ f. = Yamunā, Gopāl. 65, 16. {part=,seq=14532,type=°,n=2}
+;-----------------
+45176 old °{%tilatulā%}¦ Ähnlichkeit mit Sesam, Śūryaś. 78<sup>b</sup>. {part=,seq=14837,type=°,n=2}
+45176 new °{%tilatulā%}¦ Ähnlichkeit mit Sesam, Sūryaś. 78<sup>b</sup>. {part=,seq=14837,type=°,n=2}
+;-----------------
+45389 old {%turaṃgamā%}¦ °Galopp, Suk. t. o. 58 [p. 63, 4]. {part=,seq=14907,type=,n=2}
+45389 new {%turaṃgamā%}¦ °Galopp, Śuk. t. o. 58 [p. 63, 4]. {part=,seq=14907,type=,n=2}
+;-----------------
+45629 old {%tūṣṇīṃsāra%}¦ Adj. wobei das Stille vorwaltet, Āit. Br. 2, 31, 1. {part=,seq=14986,type=,n=2}
+45629 new {%tūṣṇīṃsāra%}¦ Adj. wobei das Stille vorwaltet, Ait. Br. 2, 31, 1. {part=,seq=14986,type=,n=2}
+;-----------------
+46176 old {%trimūḍha%}¦ n. = {%trimūḍhaka%}, Bhar. Nāṭyaś. 18, 118. {part=,seq=15166,type=,n=2}
+46176 new {%trimūḍha%}¦ n. = {%trimūḍhaka%}, Bhār. Nāṭyaś. 18, 118. {part=,seq=15166,type=,n=2}
+;-----------------
+46233 old {%trivitasta%}¦ als Subst. eine Strecke von drei Spannen, Āpast. Sr. 7, 4, 2. {part=,seq=15185,type=,n=2}
+46233 new {%trivitasta%}¦ als Subst. eine Strecke von drei Spannen, Āpast. Śr. 7, 4, 2. {part=,seq=15185,type=,n=2}
+;-----------------
+46830 old °{%dantivadana%}¦ m. = Gaṇeśa, Srīk. XXIII, 14 (Ko.). {part=,seq=15380,type=°,n=2}
+46830 new °{%dantivadana%}¦ m. = Gaṇeśa, Śrīk. XXIII, 14 (Ko.). {part=,seq=15380,type=°,n=2}
+;-----------------
+46846 old °{%dandaśūkāśana%}¦ m. = Garuḍa, Sūryāś. 94<sup>d</sup>. {part=,seq=15385,type=°,n=2}
+46846 new °{%dandaśūkāśana%}¦ m. = Garuḍa, Sūryaś. 94<sup>d</sup>. {part=,seq=15385,type=°,n=2}
+;-----------------
+47754 old {%duḥkhānarha%}¦ Adj. kein Leid verdienend, Mbh. 3, 27. 10. Vgl. {%aduḥkhārha%} oben. {part=,seq=15683,type=,n=3}
+47754 new {%duḥkhānarha%}¦ Adj. kein Leid verdienend, MBh. 3, 27. 10. Vgl. {%aduḥkhārha%} oben. {part=,seq=15683,type=,n=3}
+;-----------------
+47757 old {%duḥkhāsikā%}¦ f. das Gefühl des Unbehagens, Verstimmtheit, Komm. zu Harṣac. (1936) 68, 5. Auch Subhā-ṣitāv. 156; Kād. (1883) 297, 6. {part=,seq=15684,type=,n=4}
+47757 new {%duḥkhāsikā%}¦ f. das Gefühl des Unbehagens, Verstimmtheit, Komm. zu Harṣac. (1936) 68, 5. Auch Subhāṣitāv. 156; Kād. (1883) 297, 6. {part=,seq=15684,type=,n=4}
+;-----------------
+47790 old {%dugdhasamudra%}¦ , Aniruddha zu Sāṃ-khyas. 6, 52. {part=,seq=15695,type=,n=2}
+47790 new {%dugdhasamudra%}¦ , Aniruddha zu Sāṃkhyas. 6, 52. {part=,seq=15695,type=,n=2}
+;-----------------
+48079 old {%durvyavahṛti%}¦ f. übles Gerede, Mahā-vīrac. 48, 8. {part=,seq=15790,type=,n=2}
+48079 new {%durvyavahṛti%}¦ f. übles Gerede, Mahāvīrac. 48, 8. {part=,seq=15790,type=,n=2}
+;-----------------
+48134 old {%duṣprabhañjana%}¦ m Orkan, Mahā-vīrac. 124, 2. {part=,seq=15808,type=,n=2}
+48134 new {%duṣprabhañjana%}¦ m Orkan, Mahāvīrac. 124, 2. {part=,seq=15808,type=,n=2}
+;-----------------
+48371 old {%devatāmaya%}¦ Āpast. Sr. 14, 33, 8. {part=,seq=15884,type=,n=1}
+48371 new {%devatāmaya%}¦ Āpast. Śr. 14, 33, 8. {part=,seq=15884,type=,n=1}
+;-----------------
+50212 old 1. {%dhyā%}¦ mit {%abhi%} 4. jemandem (Lok.) etwas (Akk.) antun, Mahāvīrac. 8, 11. — Mit {%ni%} sehen, betrachten, Kir. 4, 26 v. l.; 10, 46. 57; 14, 58; einsehen, ergründen, Mahāvy. 245, 1055. — *Kaus. {%nidhyāpayati%} wohl überreden, zu überreden suchen, 245, 1059. {part=,seq=16484,type=,n=7}
+50212 new 1. {%dhyā%}¦ mit {%abhi%} 4. jemandem (Lok.) etwas (Akk.) antun, Mahāvīrac. 8, 11. — Mit {%ni%} sehen, betrachten, Kir. 4, 26 v. l.; 10, 46. 57; 14, 58; einsehen, ergründen, Mahāvy. 245, 1055. — * Kaus. {%nidhyāpayati%} wohl überreden, zu überreden suchen, 245, 1059. {part=,seq=16484,type=,n=7}
+;-----------------
+50531 old {%nadīsīsa%}¦ = {%phenapiṇḍa%}, JAOS, Proc. 1883, Oct. VIII. {part=,seq=16588,type=,n=2}
+50531 new {%nadīsīsa%}¦ = {%phenapiṇḍa%}, JAOS. Proc. 1883, Oct. VIII. {part=,seq=16588,type=,n=2}
+;-----------------
+50534 old {%nadeśa%}¦ m. das Meer, Vasav. 73, 1. {part=,seq=16589,type=,n=1}
+50534 new {%nadeśa%}¦ m. das Meer, Vāsav. 73, 1. {part=,seq=16589,type=,n=1}
+;-----------------
+52323 old {%nirdākṣiṇyam%}¦ °Adv. unhöflich, Śṛṅgā-rasarv. p. 5, Z. 12 v.u. {part=,seq=17177,type=,n=2}
+52323 new {%nirdākṣiṇyam%}¦ °Adv. unhöflich, Śṛṅgārasarv. p. 5, Z. 12 v.u. {part=,seq=17177,type=,n=2}
+;-----------------
+52514 old °{%nirvadanāvikāra%}¦ Adj. without disfigurement of face, Harṣāc. 164, 6. {part=,seq=17240,type=°,n=2}
+52514 new °{%nirvadanāvikāra%}¦ Adj. without disfigurement of face, Harṣac. 164, 6. {part=,seq=17240,type=°,n=2}
+;-----------------
+52672 old {%nivṛttasaṃtāpīya%}¦ n. ein best. zu der Gattung der {%rasāyana%} gezähltes Heilmittel, Śuśr. 2, 169, 14; 1, 10, 2. {part=,seq=17292,type=,n=3}
+52672 new {%nivṛttasaṃtāpīya%}¦ n. ein best. zu der Gattung der {%rasāyana%} gezähltes Heilmittel, Suśr. 2, 169, 14; 1, 10, 2. {part=,seq=17292,type=,n=3}
+;-----------------
+52757 old {%niścayakṛt%}¦ Adj. einen best. Sinn gebend, Sārasvatīk. 4, śl. 12. {part=,seq=17320,type=,n=2}
+52757 new {%niścayakṛt%}¦ Adj. einen best. Sinn gebend, Sarasvatīk. 4, śl. 12. {part=,seq=17320,type=,n=2}
+;-----------------
+52809 old {%niśvāsāy%}¦ zum Atem werden, Damayantik. 80. {part=,seq=17337,type=,n=2}
+52809 new {%niśvāsāy%}¦ zum Atem werden, Damayantīk. 80. {part=,seq=17337,type=,n=2}
+;-----------------
+54289 old {%paṭutā%}¦ f. = {%paṭutva%} 2., Mudrār. 57, 6. Nom. abstr. zu {%paṭu%} 1. e), Rudraṭa, Sṛṅgārat. 2, 48. {part=,seq=17823,type=,n=3}
+54289 new {%paṭutā%}¦ f. = {%paṭutva%} 2., Mudrār. 57, 6. Nom. abstr. zu {%paṭu%} 1. e), Rudraṭa, Śṛṅgārat. 2, 48. {part=,seq=17823,type=,n=3}
+;-----------------
+54552 old {%pattracchaṭā%}¦ f. = {%pattrabhaṅga%}, Nais. 22, 30. {part=,seq=17909,type=,n=2}
+54552 new {%pattracchaṭā%}¦ f. = {%pattrabhaṅga%}, Naiṣ. 22, 30. {part=,seq=17909,type=,n=2}
+;-----------------
+54567 old {%pattrapati%}¦ m. Bein. Garuḍa's, Siś. 20, 73. {part=,seq=17914,type=,n=2}
+54567 new {%pattrapati%}¦ m. Bein. Garuḍa's, Śiś. 20, 73. {part=,seq=17914,type=,n=2}
+;-----------------
+54585 old °{%pattramakara%}¦ m. = {%makararūpaḥ pattrabhaṅgaḥ%}, H XX, 21; Śrṅgt. 2<sup>a</sup>. {part=,seq=17920,type=°,n=2}
+54585 new °{%pattramakara%}¦ m. = {%makararūpaḥ pattrabhaṅgaḥ%}, H XX, 21; Śṛṅgt. 2<sup>a</sup>. {part=,seq=17920,type=°,n=2}
+;-----------------
+54842 old {%Padyāmṛtataraṃgiṇīsopāna%}¦ n. Titel eines Kommentares, ZDMG. 37, 544 ff. {part=,seq=18004,type=,n=2}
+54842 new {%Padyāmṛtataraṃgiṇīsopāna%}¦ n. Titel eines Kommentares, ZDMG 37, 544 ff. {part=,seq=18004,type=,n=2}
+;-----------------
+56285 old {%pākala%}¦ 2. a) Elefantenfieber, Harśac. (1936) 267, 6. {part=,seq=18478,type=,n=2}
+56285 new {%pākala%}¦ 2. a) Elefantenfieber, Harṣac. (1936) 267, 6. {part=,seq=18478,type=,n=2}
+;-----------------
+56662 old *{%pānagoṣṭhikā%}¦ Trinkgelage, Śrik. XIV, 37. {part=,seq=18602,type=*,n=2}
+56662 new *{%pānagoṣṭhikā%}¦ Trinkgelage, Śrīk. XIV, 37. {part=,seq=18602,type=*,n=2}
+;-----------------
+56887 old {%pārśvasaṃhita%}¦ Adj. nebeneinander gelegt, Lāty. 8, 6, 15. {part=,seq=18676,type=,n=2}
+56887 new {%pārśvasaṃhita%}¦ Adj. nebeneinander gelegt, Lāṭy. 8, 6, 15. {part=,seq=18676,type=,n=2}
+;-----------------
+57318 old °{%piśācikā%}¦ Dämonin, Subhāsitāv. 3339. {part=,seq=18818,type=°,n=1}
+57318 new °{%piśācikā%}¦ Dämonin, Subhāṣitāv. 3339. {part=,seq=18818,type=°,n=1}
+;-----------------
+57650 old {%punarjīvātu%}¦ f. Wiedergeburt, TāṇḍyaBr. 1, 5, 18. {part=,seq=18927,type=,n=2}
+57650 new {%punarjīvātu%}¦ f. Wiedergeburt, Tāṇḍya-Br. 1, 5, 18. {part=,seq=18927,type=,n=2}
+;-----------------
+58781 old {%prakṣālayitar%}¦ Nom. ag. Wäscher (der Füße des Gastes), Āpast. Grhy. 13, 6. {part=,seq=19299,type=,n=3}
+58781 new {%prakṣālayitar%}¦ Nom. ag. Wäscher (der Füße des Gastes), Āpast. Gṛhy. 13, 6. {part=,seq=19299,type=,n=3}
+;-----------------
+59362 old {%prátiprāś%}¦ (m. Gegner in einer Rechtssāche) und {%pratiprāśita%}, vgl. Bloomfield in JAOS, Proc. May 1855, XLII ff. {part=,seq=19490,type=,n=3}
+59362 new {%prátiprāś%}¦ (m. Gegner in einer Rechtssāche) und {%pratiprāśita%}, vgl. Bloomfield in JAOS. Proc. May 1855, XLII ff. {part=,seq=19490,type=,n=3}
+;-----------------
+59876 old °{%pratyāpaṇa%}¦ (n.) Handel, Verkauf, Śrṅgārasarv. p. 6, Z. 12 v.u. {part=,seq=19659,type=°,n=2}
+59876 new °{%pratyāpaṇa%}¦ (n.) Handel, Verkauf, Śṛṅgārasarv. p. 6, Z. 12 v.u. {part=,seq=19659,type=°,n=2}
+;-----------------
+60584 old {%prasannā%}¦ (Reisbranntwein) auch Srīk. 14, 54. {part=,seq=19892,type=,n=2}
+60584 new {%prasannā%}¦ (Reisbranntwein) auch Śrīk. 14, 54. {part=,seq=19892,type=,n=2}
+;-----------------
+61119 old {%prālamba%}¦ *m. °eine bis zum Knie reichende Girlande, S I, 101, 3. — Perlenschmuck, H XVIII, 12 [könnte auch *n. sein! Ko.: {%prālambaḥ sragdāma hāro vā]%}; XXXV, 62 (m. oder n.?); XXXVII, 18 (Ko.m.); XLVII, 36 (m.? n.?). {part=,seq=20068,type=,n=7}
+61119 new {%prālamba%}¦ *m. °eine bis zum Knie reichende Girlande, S I, 101, 3. — Perlenschmuck, H XVIII, 12 [könnte auch *n. sein! Ko.: {%prālambaḥ sragdāma hāro vā]%}; XXXV, 62 (m. oder n.?); XXXVII, 18 (Ko. m.); XLVII, 36 (m.? n.?). {part=,seq=20068,type=,n=7}
+;-----------------
+61168 old {%prā́ś%}¦ eine (aufgestellte) Behauptung in einem Streitfalle. Vgl. Bloomfield in JAOS, Proc. May 1855, S. XLII ff. {part=,seq=20084,type=,n=3}
+61168 new {%prā́ś%}¦ eine (aufgestellte) Behauptung in einem Streitfalle. Vgl. Bloomfield in JAOS. Proc. May 1855, S. XLII ff. {part=,seq=20084,type=,n=3}
+;-----------------
+61265 old 1. {%prī%}¦ mit {%pari%} *Kaus. höchlich erfreuen, Mahāvy. 85, 11. {part=,seq=20116,type=,n=2}
+61265 new 1. {%prī%}¦ mit {%pari%} * Kaus. höchlich erfreuen, Mahāvy. 85, 11. {part=,seq=20116,type=,n=2}
+;-----------------
+61454 old °{%pluṣṭi%}¦ f. die Verbrennung, Suryaś. 35<sup>d</sup>. {part=,seq=20178,type=°,n=2}
+61454 new °{%pluṣṭi%}¦ f. die Verbrennung, Sūryaś. 35<sup>d</sup>. {part=,seq=20178,type=°,n=2}
+;-----------------
+64524 old {%maṭūṣikā%}¦ , {%maḍūṣikā%} oder {%maṇḍūṣikā%} f. Āpast. Gṛhy. 3, 11; Baudh. Gṛhy. Pariś. auf verschiedene Weise erklärt. Vgl. {%nadhūṣikā = svalpadehā%} Vaijayantī, bhūmik., brāhmaṇādhy. 51. [Beiträge zur indischen Erotik<sup>1</sup> 621 ff.] {part=,seq=21185,type=,n=6}
+64524 new {%maṭūṣikā%}¦ , {%maḍūṣikā%} oder {%maṇḍūṣikā%} f. Āpast. Gṛhy. 3, 11; Baudh. Gṛhy. Pariś. auf verschiedene Weise erklärt. Vgl. {%nadhūṣikā = svalpadehā%} Vaijayantī, Bhūmik., Brāhmaṇādhy. 51. [Beiträge zur indischen Erotik<sup>1</sup> 621 ff.] {part=,seq=21185,type=,n=6}
+;-----------------
+65404 old {%mantramaheśvara%}¦ m. im Kasm. Śiv. als Pl. eine Klasse höherer Wesen, die unter der Führung Sadāśiva's (s. d.) auf einer bestimmten Stufe des Weltprozesses als Erkenntnissubjekte ({%pramātar%}) fungieren, Praty. Hṛd. 7, 3. [B.] {part=,seq=21474,type=,n=7}
+65404 new {%mantramaheśvara%}¦ m. im Kaśm. Śiv. als Pl. eine Klasse höherer Wesen, die unter der Führung Sadāśiva's (s. d.) auf einer bestimmten Stufe des Weltprozesses als Erkenntnissubjekte ({%pramātar%}) fungieren, Praty. Hṛd. 7, 3. [B.] {part=,seq=21474,type=,n=7}
+;-----------------
+66892 old {%[mitra%}¦ 2.], f. {%mitrā%} Āpāst. Gṛhy. 3, 11 nach dem Komm. viele Freunde habend oder Freundin. [V p. 193; Beiträge zur ind. Erotik<sup>1</sup>, S. 620. 622. 624.] {part=,seq=21963,type=,n=5}
+66892 new {%[mitra%}¦ 2.], f. {%mitrā%} Āpast. Gṛhy. 3, 11 nach dem Komm. viele Freunde habend oder Freundin. [V p. 193; Beiträge zur ind. Erotik<sup>1</sup>, S. 620. 622. 624.] {part=,seq=21963,type=,n=5}
+;-----------------
+66920 old {%mithaḥsamaya%}¦ m. gegenseitiges Übereinkommen, Śak. 65. 3. Statt dessen {%°samavāya%} ed. Pischel 101, 2. {part=,seq=21972,type=,n=3}
+66920 new {%mithaḥsamaya%}¦ m. gegenseitiges Übereinkommen, Śāk. 65. 3. Statt dessen {%°samavāya%} ed. Pischel 101, 2. {part=,seq=21972,type=,n=3}
+;-----------------
+69522 old {%ravija%}¦ auch Patron. Yama's, Subhāṣitāv. 3179. [Srīk. V, 49; VII, 24. 32; XII, 32; XXII, 39.] {part=,seq=22826,type=,n=3}
+69522 new {%ravija%}¦ auch Patron. Yama's, Subhāṣitāv. 3179. [Śrīk. V, 49; VII, 24. 32; XII, 32; XXII, 39.] {part=,seq=22826,type=,n=3}
+;-----------------
+69833 old {%rātā%}¦ Adj. f. Āpast. Gṛhy. 3, 11 auf verschiedene Weise gedeutet. = {%vihāriṇī%}, Vaijayantī, bhūmik., brāhmaṇādhy. 52 nach Winternitz. [Vgl. Beiträge zur ind. Erotik<sup>1</sup>, S. 620. 622. 631. 632.] {part=,seq=22928,type=,n=5}
+69833 new {%rātā%}¦ Adj. f. Āpast. Gṛhy. 3, 11 auf verschiedene Weise gedeutet. = {%vihāriṇī%}, Vaijayantī, Bhūmik., Brāhmaṇādhy. 52 nach Winternitz. [Vgl. Beiträge zur ind. Erotik<sup>1</sup>, S. 620. 622. 631. 632.] {part=,seq=22928,type=,n=5}
+;-----------------
+71281 old 1. {%vac%}¦ mit {%paripra%} bedeutet: jemandem (Akk.) mit einer Mitteilung zuvorkommen; s. JAOS, Proc. Oct. 1885, XXVI f. — Mit {%vi%} Kaus. murren, klagen, ungehalten sein, Mahāvy. 132, 16. Statt dessen {%vipācayati%} 281, 158. {part=,seq=23402,type=,n=7}
+71281 new 1. {%vac%}¦ mit {%paripra%} bedeutet: jemandem (Akk.) mit einer Mitteilung zuvorkommen; s. JAOS. Proc. Oct. 1885, XXVI f. — Mit {%vi%} Kaus. murren, klagen, ungehalten sein, Mahāvy. 132, 16. Statt dessen {%vipācayati%} 281, 158. {part=,seq=23402,type=,n=7}
+;-----------------
+74300 old {%viruda%}¦ m. n. °Ehrenname, Śuk. t. o. 61 [p. 65, 1]; Śṛṅgsarv. 136<sup>b</sup>. {part=,seq=24393,type=,n=2}
+74300 new {%viruda%}¦ m. n. °Ehrenname, Śuk. t. o. 61 [p. 65, 1]; Śṛṅgārasarv. 136<sup>b</sup>. {part=,seq=24393,type=,n=2}
+;-----------------
+74854 old {%viṣvagvṛtti%}¦ Adj. überallhin sich verbreitend, Mālatim. (ed. Bomb.) 159, 3. {part=,seq=24575,type=,n=2}
+74854 new {%viṣvagvṛtti%}¦ Adj. überallhin sich verbreitend, Mālatīm. (ed. Bomb.) 159, 3. {part=,seq=24575,type=,n=2}
+;-----------------
+76161 old {%vraṇayukta%}¦ Adj. verwundet. Nom. abstr. {%°tva%} n. R. ed. Boṃb. 4, 61, 2. {part=,seq=25004,type=,n=2}
+76161 new {%vraṇayukta%}¦ Adj. verwundet. Nom. abstr. {%°tva%} n. R. ed. Bomb. 4, 61, 2. {part=,seq=25004,type=,n=2}
+;-----------------
+76638 old °{%Śambaraśāna%}¦ m. ein Name des Liebesgottes, Śṛṅgbh. 29<sup>b</sup>; 86<sup>b</sup>; Śṛùgt. 47, 14; 135<sup>d</sup>. {part=,seq=25161,type=°,n=3}
+76638 new °{%Śambaraśāna%}¦ m. ein Name des Liebesgottes, Śṛṅgbh. 29<sup>b</sup>; 86<sup>b</sup>; Śṛṅgt. 47, 14; 135<sup>d</sup>. {part=,seq=25161,type=°,n=3}
+;-----------------
+76641 old {%Śambarāri%}¦ m. auch Śrṅgārasarv. 18<sup>a</sup>. {part=,seq=25162,type=,n=1}
+76641 new {%Śambarāri%}¦ m. auch Śṛṅgārasarv. 18<sup>a</sup>. {part=,seq=25162,type=,n=1}
+;-----------------
+77021 old {%śātodara%}¦ Adj. auch Sṛṅgārasarv. 71<sup>c</sup> ({%°rī%}). {part=,seq=25287,type=,n=2}
+77021 new {%śātodara%}¦ Adj. auch Śṛṅgārasarv. 71<sup>c</sup> ({%°rī%}). {part=,seq=25287,type=,n=2}
+;-----------------
+77073 old {%śārita%}¦ Adj. auch Srīk. 4, 24. {part=,seq=25304,type=,n=1}
+77073 new {%śārita%}¦ Adj. auch Śrīk. 4, 24. {part=,seq=25304,type=,n=1}
+;-----------------
+77270 old {%śiti%}¦ 1. Adj. b) schwarz auch Srīk. 22, 42; H 20, 39; Sūryaś. 75<sup>b</sup>. {part=,seq=25369,type=,n=2}
+77270 new {%śiti%}¦ 1. Adj. b) schwarz auch Śrīk. 22, 42; H 20, 39; Sūryaś. 75<sup>b</sup>. {part=,seq=25369,type=,n=2}
+;-----------------
+77291 old °{%śithilīkṛti%}¦ f. Schwächung, Śrṅgt. 13<sup>b</sup>. {part=,seq=25376,type=°,n=1}
+77291 new °{%śithilīkṛti%}¦ f. Schwächung, Śṛṅgt. 13<sup>b</sup>. {part=,seq=25376,type=°,n=1}
+;-----------------
+77912 old °{%śṛṅgāravīthikā%}¦ Liebesgäßchen, Sṛṅgārasarv. p. 12, Z. 9 v. o. {part=,seq=25580,type=°,n=2}
+77912 new °{%śṛṅgāravīthikā%}¦ Liebesgäßchen, Śṛṅgārasarv. p. 12, Z. 9 v. o. {part=,seq=25580,type=°,n=2}
+;-----------------
+78481 old 2. {%śvavṛtti%}¦ auch so v.a. Speichellecker, Mit. zu Yajñ. 3, 289 f. {part=,seq=25767,type=,n=2}
+78481 new 2. {%śvavṛtti%}¦ auch so v.a. Speichellecker, Mit. zu Yājñ. 3, 289 f. {part=,seq=25767,type=,n=2}
+;-----------------
+79283 old {%sañj%}¦ 3. {%sajjase = sajjayasi%} (von 2. {%sajjay%}), R. ed. Bomb. 4, 66, 7. — Mit {%abhi, °ṣakta%} *grimmig, Mahāvy. 146. — Mit {%ud%} °Kaus. S I, 556, 8 ({%utsañjayan = ullāsayan)%} eine Waffe spielen lassen. — Mit {%vi, °ṣakta%} am Ende eines Komp. zusammenhängend -x-, verbunden mit, Jātakam. 10, 33. — Mit {%sam%} 1. c) lies {%saṃsasajjatuḥ%}. {part=,seq=26031,type=,n=9}
+79283 new {%sañj%}¦ 3. {%sajjase = sajjayasi%} (von 2. {%sajjay%}), R. ed. Bomb. 4, 66, 7. — Mit {%abhi, °ṣakta%} *grimmig, Mahāvy. 146. — Mit {%ud%} °<ls>Kaus.</ls> S I, 556, 8 ({%utsañjayan = ullāsayan)%} eine Waffe spielen lassen. — Mit {%vi, °ṣakta%} am Ende eines Komp. zusammenhängend -x-, verbunden mit, Jātakam. 10, 33. — Mit {%sam%} 1. c) lies {%saṃsasajjatuḥ%}. {part=,seq=26031,type=,n=9}
+;-----------------
+81387 old *{%sāṃkāśikā%}¦ Adj. f. = {%pitrādigṛheṣv agnyādidāyinī%}, Vaijayantī, bhūmik., brāhmaṇādhy. 52 nach Winternitz. [Beiträge zur ind. Erotik<sup>1</sup>, p. 632.] {part=,seq=26721,type=*,n=4}
+81387 new *{%sāṃkāśikā%}¦ Adj. f. = {%pitrādigṛheṣv agnyādidāyinī%}, Vaijayantī, Bhūmik., Brāhmaṇādhy. 52 nach Winternitz. [Beiträge zur ind. Erotik<sup>1</sup>, p. 632.] {part=,seq=26721,type=*,n=4}
+;-----------------
+81439 old {%sādhana%}¦ Penis, Vāmana Kāvy. p. 16, 7 ed. Cappeller. [Z.] {part=,seq=26738,type=,n=2}
+81439 new {%sādhana%}¦ Penis, Vāmana, Kāvy. p. 16, 7 ed. Cappeller. [Z.] {part=,seq=26738,type=,n=2}
+;-----------------
+82155 old °{%Sukuntalā%}¦ Frauenname, Sṛṅgt. 22, 6. {part=,seq=26974,type=°,n=1}
+82155 new °{%Sukuntalā%}¦ Frauenname, Śṛṅgt. 22, 6. {part=,seq=26974,type=°,n=1}
+;-----------------
+82896 old °{%suṣumā%}¦ = {%suṣamā%} (Pracht), Śṛùgārasarv. 42<sup>c</sup>. {part=,seq=27218,type=°,n=2}
+82896 new °{%suṣumā%}¦ = {%suṣamā%} (Pracht), Śṛṅgārasarv. 42<sup>c</sup>. {part=,seq=27218,type=°,n=2}
+;-----------------
+83695 old {%sthā%}¦ mit {%paryava, °sthita%} böse, Divyāvad. 185, 29. — Mit {%vyud%}, glücklich heimkehren, ebenda 35, 22. — {%vyutthita%} im Kaśm. Śiv. °der der gewöhnlichen Welttätigkeit ergebene Mensch (Gegensatz: {%yogin%}), Praṭy. Hṛd. 14, 2. [B.] {part=,seq=27480,type=,n=7}
+83695 new {%sthā%}¦ mit {%paryava, °sthita%} böse, Divyāvad. 185, 29. — Mit {%vyud%}, glücklich heimkehren, ebenda 35, 22. — {%vyutthita%} im Kaśm. Śiv. °der der gewöhnlichen Welttätigkeit ergebene Mensch (Gegensatz: {%yogin%}), Praty. Hṛd. 14, 2. [B.] {part=,seq=27480,type=,n=7}
+;-----------------
+83927 old {%sphāra%}¦ m. °Menge, S I, 39, 5. — *= {%sphoṭaka%} (on chowries), Harsac. 160, 22. {part=,seq=27556,type=,n=3}
+83927 new {%sphāra%}¦ m. °Menge, S I, 39, 5. — *= {%sphoṭaka%} (on chowries), Harṣac. 160, 22. {part=,seq=27556,type=,n=3}
+;-----------------
+84993 old {%hāṭaka%}¦ °eine Art Waffe, Kaūṭ. 101, 2 v.u. Vgl. J. J. Meyer, S. 155, Anm. 4. {part=,seq=27905,type=,n=3}
+84993 new {%hāṭaka%}¦ °eine Art Waffe, Kauṭ. 101, 2 v.u. Vgl. J. J. Meyer, S. 155, Anm. 4. {part=,seq=27905,type=,n=3}
+;-----------------
+85026 old °{%hārahūraka%}¦ n. eine Art Wein, Kauṭ. 120, 5 v.u.; Srīk. XIV, 5. 21. {part=,seq=27916,type=°,n=2}
+85026 new °{%hārahūraka%}¦ n. eine Art Wein, Kauṭ. 120, 5 v.u.; Śrīk. XIV, 5. 21. {part=,seq=27916,type=°,n=2}
+;-----------------
+88548 old °{%caityaśalākā%}¦ "champion caitya", Pṛabandh. 259, 10/11. {part=N,seq=29070,type=°,n=2}
+88548 new °{%caityaśalākā%}¦ "champion caitya", Prabandh. 259, 10/11. {part=N,seq=29070,type=°,n=2}
+;-----------------

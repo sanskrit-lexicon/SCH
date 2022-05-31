@@ -1,0 +1,550 @@
+5     Amaru
+93    Amit.
+1     Unmattar.
+2     Dināl.-Śuk.
+1     Dināl.
+7     Kathāk.
+32    Kalāv.
+10    Kāvyāl.
+96    Kuṭṭ.
+23    Kuval.
+10    Kaut.
+236   Kauś.
+138   Govardh.
+105   Caraka
+13    Darpad.
+212   Daśak.
+169   Daśar.
+16    Daśāv.
+3     Par. Sār.
+1     Par. Tr.
+21    Pārvat.
+106   Pūrṇabh.
+133   Praty. Hṛd.
+0     Manmatk.
+48    Mgs.
+150   Muk.
+3     Y.
+615   Yudh.
+176   Rasas.
+44    Laṭ.
+8     V.
+97    Vāsav.
+16    Viddh.
+16    Vaij.
+4     Śiv. Vim.
+239   Śuk.
+163   Śṛṅgt.
+41    Śṛṅgbh.
+86    Śṛṅgārasarv.
+1     Śṛṅgsarv.
+1080  Śrīk.
+8     Samay.
+108   Sūryaś.
+884   Harṣac.
+97    Uttarar.
+114   Kaṃs.
+28    Karṇas.
+501   Kir.
+1358  Kauṭ.
+116   Gopāl.
+378   Padyac.
+44    Pārijātam.
+691   Prabandh.
+34    Bhānudatta's Alaṃkāratilaka
+4     Alaṃkārat.
+25    Mahāvīr.
+15    Mahāvīr. ed. Aiyar
+1     Mahāvīrac. ed. Aiyar
+206   Viṣṇubh.
+7     Subhadr.
+21    Saug.
+132   Viṣṇus.
+87    Bhām. V.
+26    Verz. d. Oxf. H.
+1999  H 
+5303  S 
+252   Vās.
+17    S. S. S.
+12    Kāvyapr.
+147   Kathās.
+2     Bhikṣāṭanakāvya
+85    Kāty. Śr.
+144   Spr.
+73    Rājat.
+2     Ath. Par.
+1     Ath. Anukr.
+2     Ath. Paddh.
+1     Ath. Pariś.
+1     Ath. Paddhati
+2     AV. Anukr.
+111   Sāṃkhyas.
+83    Mālatīm.
+336   R. ed. Bomb.
+81    AV.
+10    AV. Pariś.
+62    Yājñ.
+27    Śāṅkh. Gṛhy.
+58    Kād.
+117   Śat. Br.
+243   Naiṣ.
+43    Mudrār.
+526   Āpast. Śr.
+818   MBh.
+58    Baudh.
+1     Dāy.
+21    Yogas.
+75    Tāṇḍya-Br.
+73    Manm.
+487   Śiś.
+58    Gobh.
+57    Nīlak.
+5     Pārśvan.
+14    Matsyap.
+1     Matsya-P.
+192   Dharmaśarm.
+222   Hem. Par.
+155   TS.
+516   Maitr. S.
+14    H. an.
+2     Med. k.
+27    Bādar.
+1     Kaus. Up.
+196   Kaus.
+25    Āśv. Gṛhy.
+24    Bālar.
+27    Vikramāṅkac.
+60    Ragh.
+119   Hariv.
+119   M.
+51    TBr.
+43    Varāh. Bṛh. S.
+2     Varāh. Bṛh.
+221   Āpast. Gṛhy.
+2     Baudh. Gṛhy.
+15    Bhaṭṭ.
+196   Bhāg. P.
+99    Suśr.
+21    Śaṃk.
+11    TS. Prāt.
+2     VS. Prāt.
+11    ṚV. Prāt.
+3     AV. Prāt.
+138   ṚV.
+71    Sāy.
+36    Mārk. P.
+17    Śāk.
+37    Sāh. D.
+79    Kāśīkh.
+77    Ind. St.
+1     Ind. Studien
+38    Kāṭh.
+37    Kap. S.
+44    Caṇḍīś.
+184   R.
+26    Har.
+49    Sud.
+40    Pār. Gṛhy.
+148   Zach.
+105   Āpast.
+38    Bhag.
+35    VP.
+35    Pañcat.
+37    Mṛcch.
+657   Jātakam.
+45    R. Gorr.
+14    Kull.
+1     Taitt. Br.
+37    Taitt. Ār.
+1     Taitt. Up.
+13    Dhātup.
+59    Mān. Gṛhy.
+699   Divyāvad.
+9     Sūryas.
+23    Gīt.
+22    Vaitān.
+9     Varāh. Yogay.
+31    Sarvad.
+59    Vajracch.
+1     Vaj.
+3     Śāktān. Kap.
+1     Kirāt.
+1     Vāstuv.
+7     AV. Paipp.
+14    Śobh.
+7     LA.
+5     Veṇīs.
+120   Mahāvīrac.
+883   Mahāvy.
+1     Tejob. Up.
+1     Pañc.
+20    Chānd. Up.
+25    Āśv. Śr.
+44    Śāṅkh. Br.
+5     Bṛhasp.
+66    Subhāṣitāv.
+72    Śāṅkh. Śr.
+174   Damayantīk.
+41    Ait. Br.
+1     Schl.
+13    Kālac.
+39    Bhadrab.
+41    Lalit.
+12    Divyāv.
+1     T. S.
+35    Kap.
+2     Harṣ.
+2     Benf. Chr.
+53    Kaśm. Śiv.
+2     Kaśm. Ś.
+7     Ārṣ. Br.
+0     Caurap. (A.)
+11    Saduktik.
+4     Gobh. Śrāddhak.
+1     Kāty. Śrāddhak.
+11    Kāvyād.
+40    M. Müller, Ren.
+5     Halāy.
+11    Hit.
+3     Śāk. Ch.
+0     Śāk. (Ch.)
+0     Śāk. (Kāśm.)
+26    Pārv.
+9     Prab.
+41    Kumāras.
+30    Kām. Nītis.
+18    Svapnac.
+0     Mālatīm. (B. S. S.)
+2     Mon. d. B. A.
+1     Monatsb. d. B. A.
+2     Indian Antiquary
+18    Ind. Antiq.
+9     Gṛhyās.
+146   P.
+6     Vall.
+4     Nār.
+9     Kāty.
+8     Ind. Stud.
+2     Vāmanap.
+1     Vāmanap. Kap.
+13    Anarghar.
+1     Anarghar. S.
+17    Vardhamānac.
+31    Bühler, Rep.
+41    Kāś.
+15    Saddh. P.
+265   J. J. Meyer
+5     Raghuv.
+30    Pr. P.
+1     Śiśup.
+2     Bṛh. Ār. Up.
+7     Bṛh. Ār. Up. S.
+2     Brahma-P. Uttarakh.
+6     Vikram.
+22    Kuṭṭanīm.
+1     Sobh.
+12    Kauṣ. Up.
+7     Kaṭhop.
+35    Mān. Śr.
+2     Priy.
+25    Deśīn.
+2     Deśīn. S.
+5     Pratāpar.
+9     Vikr.
+42    Agni-P.
+3     Sāṃkhyak.
+8     Mahābh.
+0     Mahābh. (K.)
+11    Navasāhas.
+2     Kusum.
+1     Haeb. Chr.
+4     Chr.
+46    Dharmaśarmābhy.
+2     Dharm.
+46    Dārila
+11    Kṣem.
+3     Antyeṣṭik.
+464   Opp. Cat.
+3     Vāsavad.
+3     Śvetāśv. Up.
+32    Med.
+11    Unm.
+15    Pañcar.
+17    Vivādar.
+31    Trik.
+14    Vijñ.
+50    Kāraṇḍ.
+7     Ṣaḍv. Br.
+1     Hem. Pr. Gr.
+3     Hem. Prākr.
+52    Śīlāṅka
+11    Caṇḍak.
+20    Paddh.
+5     Megh.
+9     Alaṃkārar.
+11    VS.
+1     Sukhāv.
+1     Medhāt.
+7     Dharmaś.
+56    Lakṣmaṇasūri
+7     Verz. d. B. H.
+12    JAOS. Proc.
+4     JAOS, Proc.
+1     JAOS.
+1     Proc. A. O. S.
+1     Proc. of the As. Soc. of Bengal
+1     Kāraṇḍavy.
+15    Gal.
+26    Hem. Deś.
+1     H. Deś.
+5     Mallin.
+1     Bhoja-Pr.
+1     Mahāvyut.
+19    Śārṅg.
+1     Śāśv.
+21    Sāṃkhyapr.
+27    Pischel, Ved. Studien
+1     Pischel, Ved. St.
+2     Pischel, Ved. Stud.
+1     Āpast. Gṛhyas.
+1     Gṛhyas.
+1     Yaśastilakam.
+5     Ind. Str.
+3     Kāmas.
+19    Kautukas.
+4     Hem. Uṇ.
+1     Hem. Uṇādis.
+23    Sarasvatīk.
+2     Uttarādhy.
+7     Śārṅgadharap.
+2     Rudraṭālaṃkārat.
+3     Rudraṭālaṃkāraṭ.
+29    Lāṭy.
+11    Kalpas.
+19    Nir.
+6     Alaṃkāras.
+34    Śṛṅgārat.
+15    Uttarac.
+1     Śṛṅg.
+37    Uttamac.
+1     Mahāvīrāc.
+13    Vṛṣabh.
+2     Sarasvatīkaṇṭh.
+1     Gobh. Śrāddh.
+52    Rājan.
+3     Mahavīr.
+4     Leumann.
+4     Gop. Br.
+5     Colebr. Alg.
+67    Sam.
+2     Mahābhy.
+1     Sāṃkhyatattvak.
+1     Priyad.
+4     Padap.
+9     Gītag.
+2     Śaṃkaramiśra.
+2     MBh. ed. Vardh.
+14    Gaut.
+10    Samayam.
+12    Hem. Anek.
+3     Hem. An.
+17    Alaṃkārav.
+1     Bibl. ind.
+17    Gaṇar.
+2     Śārṅg. Saṃh.
+2     Rasikar.
+3     Rasikarañjana
+1     Nigh. Pr.
+1     Nigh.
+5     Maitr.
+2     Vāmana, Kāvy.
+2     Rudraṭa, Kāvy.
+1     Bhārat.
+1     Liṅg.
+1     Dhātupārāyaṇa
+7     Pañcad.
+7     Baudh. Gṛhy. Pariś.
+4     Brāhmaṇādhy.
+1     Daśak. Pūrvap.
+1     Līlāv.
+2     Līlāv. S.
+8     Maitryup.
+14    Bhāvapr.
+3     Jaim.
+8     Paribh.
+6     Saṃhitop.
+12    Saṃhitopan.
+3     Nyāyam.
+1     Nyāyak. Sāṃkhapr.
+1     Bhaviṣyap.
+1     Kāt.
+7     Hem. Yog.
+1     Hem. Yogay.
+1     Kṣurikop.
+1     Kenop.
+1     Khaṇḍapr.
+3     Nāgān.
+8     Vyutp.
+5     Muṇḍ.
+1     Wilson, Sel. W.
+1     Wilson, Sel. Works
+16    Kautukar.
+0     Vet. (U.) S.
+0     Vet. (U.)
+4     Śatr.
+5     Laghuk.
+1     Mat. med.
+7     AK.
+6     ŚKdr.
+1     Hār.
+3     Nais.
+3     Sṛṅgārasarv.
+1     Taṇḍya-Br.
+1     Ind. Erb.
+5     Ait. Ār.
+1     Hem. Yogaś.
+2     Śāṇḍ.
+1     Anukr.
+2     Mahīdh.
+1     Kār.
+2     Māṇḍ. Up.
+1     Prāyaścittav.
+1     Pischel, de Gr. pr.
+1     Śrīmālām.
+4     Karmapr.
+1     Rāmat.
+15    Pat.
+1     Varāhap. Kap.
+1     Varāhap.
+1     Saṃkṣepaś.
+2     Tarkas.
+1     Pratijñās.
+3     Subhāṣitar.
+4     Subhāṣitaratnabhāṇḍāgāra
+1     Pūrṇābh.
+1     Pādāravindaśat.
+1     Pādāravindaśataka
+15    Pādāravindaś.
+1     Ujjval.
+1     Uṇādis.
+1     Śis.
+5     Vāyu-P.
+1     Talavakāra-Br.
+3     Vāgbh.
+7     Vāgbhaṭa
+1     Colebr. Misc. Ess.
+1     Prasannar.
+1     Sādh.
+9     Mālav.
+12    JRAS. Beng.
+16    JRAS
+2     Śīlāṅk.
+2     Bhar. Nāṭyaś.
+1     Bhārata, Nāṭyaś.
+11    Aśvav.
+8     Sarasv.
+1     Śulbas.
+4     Mahāv.
+1     Mahavy.
+0     Nārada (a.)
+1     Yogavās.
+1     Brahmavaiv. P.
+1     Brahmavaiv.
+1     Brahmav. P.
+1     Chāndogyap.
+1     Dravyaś.
+1     Parāś.
+2     Parāśarasaṃhitā
+2     Parāśara
+1     Hārītasaṃh.
+1     Badar.
+105   ZDMG
+2     Ṛtus.
+1     Ṛtusaṃh.
+2     Daśav.
+1     Caṇḍiś.
+1     Bhāṣāp.
+5     Lot. de la b. l.
+3     Tāran.
+3     Viṣṇusm.
+1     Viṣṇusmṛti
+2     Kathākaut.
+1     Kathākautukam
+1     Ṣaḍguruś.
+1     Vedārthad.
+2     Unmattaragh.
+2     Hiouen-Thsang.
+5     Alaṃkāraś.
+1     Pañcadaṇḍacch.
+1     Mahāparin.
+3     Daśa K.
+1     Devībhāg.
+2     Madanav.
+1     Bodhicaryāv.
+2     Bodhicaryāvatāra
+1     Nandap.
+1     Vīram.
+1     Vīramitrodaya
+1     Kandarp.
+1     Bhāradvājagṛhy.
+1     Śrut.
+1     Brahmap.
+8     Ghāṭe
+1     Eggeling, Cat.
+1     Eggeling, Catal.
+1     Subhāṣ.
+1     Bṛhanm.
+1     Divyāyad.
+1     Gaṇap.
+1     Suparṇ.
+2     Garbhop.
+1     Tithyād.
+1     Dattakaś.
+1     Dattakatilaka
+1     Śabdar.
+1     Ratnam.
+2     Uttar.
+1     Vasav.
+1     Śṛṅgārabh.
+1     Viddhaś.
+1     Viddhaśālabh.
+1     Viddhaśāl.
+1     Sāmav. Br.
+0     Śiva-P. (SK.)
+1     Hiraṇy. Śr.
+1     Hem. Abhidhānac.
+1     Ānandal.
+2     Kāvyamālā
+1     Śṛṅgāravairāgyataraṃgiṇī
+1     Anir.
+1     Mahād.
+1     JAS. Beng.
+1     Śrīkaṇṭh.
+1     Śrīkaṇṭhacarita
+1     BSB.
+1     Gop.
+2     Boll.
+2     Vop.
+1     Sāhityad.
+1     Sāhityadarpaṇa
+11    Vivādaratn.
+3     Vivādaratnākara
+1     Bhāvat.
+1     Bibl. Ind.
+2     Kalāvil.
+1     Bhāratīyanāṭyaś.
+1     Bṛhatkathām.
+2     Bṛhatkathāmañjarī
+1     Nyāyāk.
+1     Var. Bṛh. S.
+8     Saṃsk. K.
+1     Sāṃkhyakār.
+1     Pischel, BB.
+1     Mālavik.
+1     Uttararāmach.
+1     Śṛùgārasarv.
+8     Kuhn's Z.
+1     Śūlap. Prāyaśc.
+1     Anarghyar.
+2     Kauśikasūtra
+4     Dhvanyāloka
