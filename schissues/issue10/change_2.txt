@@ -1,0 +1,98 @@
+; -----------------------------------------------------
+; <L>2254<pc>031-1<k1>anavasita<k2>anavasita
+; oldls :<ls>Bhāg. P. 5,314.</ls>
+; newls :<ls>Bhāg. P. 5,3,14.</ls>
+6964 old {%anavasita%}¦ auch: worüber man keine Gewißheit erlangt hat, <ls>Bhāg. P. 5,314.</ls> {part=,seq=2288,type=,n=2}
+;
+6964 new {%anavasita%}¦ auch: worüber man keine Gewißheit erlangt hat, <ls>Bhāg. P. 5,3,14.</ls> {part=,seq=2288,type=,n=2}
+; -----------------------------------------------------
+; <L>2418<pc>033-2<k1>anAvidDa<k2>a/nAvidDa
+; oldls :<ls>Bhāg. P. 1,2,19; 7,15,35.</ls>
+; newls :<ls>Bhāg. P. 1,2,19</ls>; <ls n="Bhāg. P.">7,15,35.</ls>
+7468 old {%ánāviddha%}¦ auch: nicht in Unruhe versetzt, nicht aufgeregt, <ls>Bhāg. P. 1,2,19; 7,15,35.</ls> {part=,seq=2453,type=,n=3}
+;
+7468 new {%ánāviddha%}¦ auch: nicht in Unruhe versetzt, nicht aufgeregt, <ls>Bhāg. P. 1,2,19</ls>; <ls n="Bhāg. P.">7,15,35.</ls> {part=,seq=2453,type=,n=3}
+; -----------------------------------------------------
+; <L>2474<pc>034-1<k1>animiz<k2>animiz
+; oldls :<ls>Bhāg. P. 2,2,17; 3,15,25; 5,23,8.</ls>
+; newls :<ls>Bhāg. P. 2,2,17</ls>; <ls n="Bhāg. P.">3,15,25</ls>; <ls n="Bhāg. P.">5,23,8.</ls>
+7644 old {%animiṣ%}¦ m. ein Gott, <ls>Bhāg. P. 2,2,17; 3,15,25; 5,23,8.</ls> {part=,seq=2511,type=,n=2}
+;
+7644 new {%animiṣ%}¦ m. ein Gott, <ls>Bhāg. P. 2,2,17</ls>; <ls n="Bhāg. P.">3,15,25</ls>; <ls n="Bhāg. P.">5,23,8.</ls> {part=,seq=2511,type=,n=2}
+; -----------------------------------------------------
+; <L>3599<pc>049-2<k1>apAvft<k2>apAvft
+; oldls :<ls>Bhāg. P. 5,18,5; 11,29,12.</ls>
+; newls :<ls>Bhāg. P. 5,18,5</ls>; <ls n="Bhāg. P.">11,29,12.</ls>
+11104 old {%apāvṛt%}¦ Adj. keine Fesseln kennend, ungehemmt, <ls>Bhāg. P. 5,18,5; 11,29,12.</ls> {part=,seq=3648,type=,n=2}
+;
+11104 new {%apāvṛt%}¦ Adj. keine Fesseln kennend, ungehemmt, <ls>Bhāg. P. 5,18,5</ls>; <ls n="Bhāg. P.">11,29,12.</ls> {part=,seq=3648,type=,n=2}
+; -----------------------------------------------------
+; <L>3837<pc>053-1<k1>apravizwa<k2>apravizwa
+; oldls :<ls>Bhāg. P. 2,9,34; 7,49,4.</ls>
+; newls :<ls>Bhāg. P. 2,9,34</ls>; <ls n="Bhāg. P.">7,49,4.</ls>
+11838 old {%apraviṣṭa%}¦ Adj. 1. nicht eingetreten, nicht eingedrungen in (Lok.), <ls>Bhāg. P. 2,9,34; 7,49,4.</ls> — 2. nicht betreten, <ls>Ragh. 11,18.</ls> {part=,seq=3889,type=,n=4}
+;
+11838 new {%apraviṣṭa%}¦ Adj. 1. nicht eingetreten, nicht eingedrungen in (Lok.), <ls>Bhāg. P. 2,9,34</ls>; <ls n="Bhāg. P.">7,49,4.</ls> — 2. nicht betreten, <ls>Ragh. 11,18.</ls> {part=,seq=3889,type=,n=4}
+; -----------------------------------------------------
+; <L>3964<pc>054-3<k1>aBaya<k2>a/Baya
+; oldls :<ls>Bhāg. P. 5,20,2. 3.</ls>
+; newls :<ls>Bhāg. P. 5,20,2.</ls> <ls n="Bhāg. P. 5,20,">3.</ls>
+12230 old 1. {%ábhaya%}¦ 2. b) N. pr. eines Sohnes des Idhmajihva, <ls>Bhāg. P. 5,20,2. 3.</ls> Das Kind Dharma's ist eine Personifikation von 4. a), also n. <ls>Bhāg. P. 4,1,50.</ls> — 3. c) N. pr. eines Flusses in Krauñcadvīpa, <ls>Bhāg. P. 5,20,22.</ls> — 4. c) ein die Sicherheit der Person andeutendes oder versprechendes Symbol. Vgl. z.B. Ward, a View of the History usw. III, S. 11 "and with the fourth (hand) he (Śiva) forbids fear". Hierher vielleicht Hemādri 1,725,18; 727,4; 790,19; 2, a,81,14; 82,1. 2; 84,5; 99,3. — d) N. pr. des von {%Abhaya%} beherrschten {%Varṣa%} in {%Plakṣadvīpa%}, <ls>Bhāg. P. 5,20,3.</ls> {part=,seq=4018,type=,n=16}
+;
+12230 new 1. {%ábhaya%}¦ 2. b) N. pr. eines Sohnes des Idhmajihva, <ls>Bhāg. P. 5,20,2.</ls> <ls n="Bhāg. P. 5,20,">3.</ls> Das Kind Dharma's ist eine Personifikation von 4. a), also n. <ls>Bhāg. P. 4,1,50.</ls> — 3. c) N. pr. eines Flusses in Krauñcadvīpa, <ls>Bhāg. P. 5,20,22.</ls> — 4. c) ein die Sicherheit der Person andeutendes oder versprechendes Symbol. Vgl. z.B. Ward, a View of the History usw. III, S. 11 "and with the fourth (hand) he (Śiva) forbids fear". Hierher vielleicht Hemādri 1,725,18; 727,4; 790,19; 2, a,81,14; 82,1. 2; 84,5; 99,3. — d) N. pr. des von {%Abhaya%} beherrschten {%Varṣa%} in {%Plakṣadvīpa%}, <ls>Bhāg. P. 5,20,3.</ls> {part=,seq=4018,type=,n=16}
+; -----------------------------------------------------
+; <L>4112<pc>056-3<k1>aBiBAzita<k2>aBiBAzita
+; oldls :<ls>Bhāg. P. 6,2,1; 17,36.</ls>
+; newls :<ls>Bhāg. P. 6,2,1</ls>; <ls n="Bhāg. P. 6,">17,36.</ls>
+12683 old {%abhibhāṣita%}¦ 1. Adj. s. u. 1. {%bhāṣ%} mit {%abhi%}. — 2. n. Rede, Worte, <ls>Bhāg. P. 6,2,1; 17,36.</ls> {part=,seq=4167,type=,n=3}
+;
+12683 new {%abhibhāṣita%}¦ 1. Adj. s. u. 1. {%bhāṣ%} mit {%abhi%}. — 2. n. Rede, Worte, <ls>Bhāg. P. 6,2,1</ls>; <ls n="Bhāg. P. 6,">17,36.</ls> {part=,seq=4167,type=,n=3}
+; -----------------------------------------------------
+; <L>4526<pc>061-3<k1>amoGadfS<k2>amoGadfS
+; oldls :<ls>Bhāg. P. 1,4,18; 5,13.</ls>
+; newls :<ls>Bhāg. P. 1,4,18</ls>; <ls n="Bhāg. P. 6,">5,13.</ls>
+13949 old {%amoghadṛś%}¦ Adj. dessen Blick unfehlbar ist, <ls>Bhāg. P. 1,4,18; 5,13.</ls> {part=,seq=4584,type=,n=2}
+;
+13949 new {%amoghadṛś%}¦ Adj. dessen Blick unfehlbar ist, <ls>Bhāg. P. 1,4,18</ls>; <ls n="Bhāg. P. 6,">5,13.</ls> {part=,seq=4584,type=,n=2}
+; -----------------------------------------------------
+; <L>4908<pc>066-3<k1>arTaracana<k2>arTaracana
+; oldls :<ls>Bhāg. P. 3,9,10; 23,8.</ls>
+; newls :<ls>Bhāg. P. 3,9,10</ls>; <ls n="Bhāg. P. 3,">23,8.</ls>
+15132 old {%artharacana%}¦ n. oder {%°nā%} f. das Betreiben seiner Sache, Verfolgung seines Zieles, Bemühung. Am Ende eines adj. Komp. <ls>Bhāg. P. 3,9,10; 23,8.</ls> {part=,seq=4973,type=,n=4}
+;
+15132 new {%artharacana%}¦ n. oder {%°nā%} f. das Betreiben seiner Sache, Verfolgung seines Zieles, Bemühung. Am Ende eines adj. Komp. <ls>Bhāg. P. 3,9,10</ls>; <ls n="Bhāg. P. 3,">23,8.</ls> {part=,seq=4973,type=,n=4}
+; -----------------------------------------------------
+; <L>5906<pc>081-1<k1>aSruvadana<k2>aSruvadana
+; oldls :<ls>Bhāg. P. 1,16,19; 17,3.</ls>
+; newls :<ls>Bhāg. P. 1,16,19</ls>; <ls n="Bhāg. P. 1,">17,3.</ls>
+18215 old {%aśruvadana%}¦ Adj. (f. {%ā%}) mit Tränen auf dem Gesichte, <ls>Bhāg. P. 1,16,19; 17,3.</ls> {part=,seq=5986,type=,n=2}
+;
+18215 new {%aśruvadana%}¦ Adj. (f. {%ā%}) mit Tränen auf dem Gesichte, <ls>Bhāg. P. 1,16,19</ls>; <ls n="Bhāg. P. 1,">17,3.</ls> {part=,seq=5986,type=,n=2}
+; -----------------------------------------------------
+; <L>6052<pc>083-2<k1>asaMvIta<k2>asaMvIta
+; oldls :<ls>Bhāg. P. 5,6,8; 6,18,49.</ls>
+; newls :<ls>Bhāg. P. 5,6,8</ls>; <ls n="Bhāg. P.">6,18,49.</ls>
+18679 old {%asaṃvīta%}¦ Adj. (f. {%ā%}) unbekleidet, <ls>MBh. 3,61,6</ls>; <ls>Bhāg. P. 5,6,8; 6,18,49.</ls> {part=,seq=6135,type=,n=2}
+;
+18679 new {%asaṃvīta%}¦ Adj. (f. {%ā%}) unbekleidet, <ls>MBh. 3,61,6</ls>; <ls>Bhāg. P. 5,6,8</ls>; <ls n="Bhāg. P.">6,18,49.</ls> {part=,seq=6135,type=,n=2}
+; -----------------------------------------------------
+; <L>9711<pc>133-3<k1>kandukalIlA<k2>kandukalIlA
+; oldls :<ls>Bhāg. P. 8,12,18. 22.</ls>
+; newls :<ls>Bhāg. P. 8,12,18.</ls> <ls n="Bhāg. P. 8,12,">22.</ls>
+29974 old {%kandukalīlā%}¦ f. Ballspiel, <ls>Kumāras. 5,19</ls>; <ls>Bhāg. P. 8,12,18. 22.</ls> {%śiraḥ°%} ein Ballspiel mit Köpfen,5,9,19. {part=,seq=9843,type=,n=3}
+;
+29974 new {%kandukalīlā%}¦ f. Ballspiel, <ls>Kumāras. 5,19</ls>; <ls>Bhāg. P. 8,12,18.</ls> <ls n="Bhāg. P. 8,12,">22.</ls> {%śiraḥ°%} ein Ballspiel mit Köpfen,5,9,19. {part=,seq=9843,type=,n=3}
+; -----------------------------------------------------
+; <L>12550<pc>173-1<k1>gomfgakAkacaryA<k2>gomfgakAkacaryA
+; oldls :<ls>Bhāg. P. 5. 5,34.</ls>
+; newls :<ls>Bhāg. P. 5,5,34.</ls>
+38799 old {%gomṛgakākacaryā%}¦ f. das Verfahren der Kühe (beim Gehen), der Gazellen (beim Stehen) und der Krähen (beim Sitzen), <ls>Bhāg. P. 5. 5,34.</ls> {part=,seq=12741,type=,n=4}
+;
+38799 new {%gomṛgakākacaryā%}¦ f. das Verfahren der Kühe (beim Gehen), der Gazellen (beim Stehen) und der Krähen (beim Sitzen), <ls>Bhāg. P. 5,5,34.</ls> {part=,seq=12741,type=,n=4}
+; -----------------------------------------------------
+; <L>16581<pc>229-2<k1>nAtilampawa<k2>nAtilampawa
+; oldls :<ls>Bhāg. P. 10. 81,38.</ls>
+; newls :<ls>Bhāg. P. 10,81,38.</ls>
+51274 old {%nātilampaṭa%}¦ Adj. nicht zu lüstern, -x- gierig, <ls>Bhāg. P. 10. 81,38.</ls> {part=,seq=16832,type=,n=2}
+;
+51274 new {%nātilampaṭa%}¦ Adj. nicht zu lüstern, -x- gierig, <ls>Bhāg. P. 10,81,38.</ls> {part=,seq=16832,type=,n=2}

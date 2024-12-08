@@ -1,0 +1,20 @@
+117	akuRWaDizRya	373	<ls>Bhāg. P. ed. Bomb. 3,5,45.</ls>
+1422	atodya	4403	<ls>Bhāg. P. ed. Bomb. 4,12,40.</ls>
+2254	anavasita	6964	<ls>Bhāg. P. 5,314.</ls>
+2418	anAvidDa	7468	<ls>Bhāg. P. 1,2,19; 7,15,35.</ls>
+2474	animiz	7644	<ls>Bhāg. P. 2,2,17; 3,15,25; 5,23,8.</ls>
+3599	apAvft	11104	<ls>Bhāg. P. 5,18,5; 11,29,12.</ls>
+3837	apravizwa	11838	<ls>Bhāg. P. 2,9,34; 7,49,4.</ls>
+3964	aBaya	12230	<ls>Bhāg. P. 5,20,2. 3.</ls>
+4112	aBiBAzita	12683	<ls>Bhāg. P. 6,2,1; 17,36.</ls>
+4526	amoGadfS	13949	<ls>Bhāg. P. 1,4,18; 5,13.</ls>
+4908	arTaracana	15132	<ls>Bhāg. P. 3,9,10; 23,8.</ls>
+5906	aSruvadana	18215	<ls>Bhāg. P. 1,16,19; 17,3.</ls>
+6052	asaMvIta	18679	<ls>Bhāg. P. 5,6,8; 6,18,49.</ls>
+7479	ASleza	23083	<ls>Bhāg. P. ed. Bomb. 3,20,30.</ls>
+9711	kandukalIlA	29974	<ls>Bhāg. P. 8,12,18. 22.</ls>
+10023	karmasaMDa	30946	<ls>Bhāg. P. ed. Bomb. 6,5,42.</ls>
+10226	kaSa	31595	<ls>Bhāg. P. ed. Bomb. 9,20,29.</ls>
+12550	gomfgakAkacaryA	38799	<ls>Bhāg. P. 5. 5,34.</ls>
+14858	triRemi	45948	<ls>Bhāg. P. ed. Bomb. 3,8,20.</ls>
+16581	nAtilampawa	51274	<ls>Bhāg. P. 10. 81,38.</ls>
