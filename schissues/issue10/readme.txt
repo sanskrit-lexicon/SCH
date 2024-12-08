@@ -158,4 +158,9 @@ Sync Cologne server to github
 
 -----------------------------------
 sync this SCH repo to github.
+cd /c/xampp/htdocs/sanskrit-lexicon/SCH/schissues/issue10
+git add .
+git commit -m "standardize links for 'Bhāg. P.' #10"
+
+
 ============================================================
