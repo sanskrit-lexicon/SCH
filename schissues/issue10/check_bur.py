@@ -275,7 +275,7 @@ if __name__ == "__main__":
  filein1 = sys.argv[2]  # tab-delimited index file
  fileout = sys.argv[3]
  pagerecs = init_pagerecs(filein1)  # from index
- X = r'BHĀG\. P\.' # global variable
+ X = r'Bhāg\. P\.' # global variable
  process(filein,fileout,pagerecs)
  exit(1)
  #kandasargadict = init_kandasargadict(pagerecs)

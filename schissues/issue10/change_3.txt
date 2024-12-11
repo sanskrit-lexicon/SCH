@@ -1,0 +1,10 @@
+; <L>3837<pc>053-1<k1>apravizwa<k2>apravizwa
+11838 old {%apraviṣṭa%}¦ Adj. 1. nicht eingetreten, nicht eingedrungen in (Lok.), <ls>Bhāg. P. 2,9,34</ls>; <ls n="Bhāg. P.">7,49,4.</ls> — 2. nicht betreten, <ls>Ragh. 11,18.</ls> {part=,seq=3889,type=,n=4}
+;
+11838 new {%apraviṣṭa%}¦ Adj. 1. nicht eingetreten, nicht eingedrungen in (Lok.), <ls>Bhāg. P. 2,9,34</ls>; <ls n="Bhāg. P.">7,12,15.</ls> — 2. nicht betreten, <ls>Ragh. 11,18.</ls> {part=,seq=3889,type=,n=4}
+;---------------------------------------------------
+; <L>9200<pc>126-2<k1>ekAdaSavyUha<k2>ekAdaSavyUha
+28389 old {%ekādaśavyūha%}¦ Adj. in elf Formen erscheinend (Rudra), <ls>Bhāg. P. 2,25,3.</ls> {part=,seq=9322,type=,n=2}
+;
+28389 new {%ekādaśavyūha%}¦ Adj. in elf Formen erscheinend (Rudra), <ls>Bhāg. P. 5,25,3.</ls> {part=,seq=9322,type=,n=2}
+;---------------------------------------------------

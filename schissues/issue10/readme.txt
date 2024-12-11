@@ -85,11 +85,12 @@ findall_ls_entries: number of lines with duplicates= 0
 python link_prelim2.py temp_sch_2.txt temp_link_prelim2_2.txt
 
 python check_bur.py temp_link_prelim2_2.txt Burnouf.BhP.index.txt temp_check_bur.txt
-0 links incompatible with index.
+2 links incompatible with index.
 
 sh redo_sch.sh 2
 
-++++++++++++++++++++++++++++++
+--------------------------------------------------------------
+REST IS OLD?
 
 # make change_1.txt
 python diff_to_changes_dict.py temp_sch_0.txt temp_sch_1.txt change_1.txt
@@ -162,5 +163,128 @@ cd /c/xampp/htdocs/sanskrit-lexicon/SCH/schissues/issue10
 git add .
 git commit -m "standardize links for 'Bhāg. P.' #10"
 
+=====================================================
+Version 3
+ Ref: https://github.com/sanskrit-lexicon/SCH/issues/10#issuecomment-2527125309
+
+ suggest that you should carry the same correction in SCH [L-3837] as at pwkvn [L-6319], for the 'apravizwa' entry.
+
+Namely, 7,49,4 -> 7,12,15
+----------
+Jim: This should have been caught by check_bur.py!
+  Noticed error in check_bur.py ('BHĀG. P.' should be 'Bhāg. P.')
+  When check_bur rerun on version 2,
+  2 inconsistencies:
+3837	apravizwa	11838	<ls n="Bhāg. P.">7,49,4.</ls>  7,12,15
+9200	ekAdaSavyUha	28389	<ls>Bhāg. P. 2,25,3.</ls>   5,25,3 (agrees pwkvn)
+
+Correct these two mistakes in version 3.
+
+cp temp_sch_2.txt temp_sch_3.txt
+
+Manual change for the two cases above.
+These are print changes.
+
+--------
+python diff_to_changes_dict.py temp_sch_2.txt temp_sch_3.txt change_3.txt
+2 changes written to change_3.txt
+
+Now rerun various programs for version 3
+sh redo_sch.sh 3
+
+python link_prelim2.py temp_sch_3.txt temp_link_prelim2_3.txt
+  196 <ls>Bhāg. P..*?</ls>
+   12 <ls n="Bhāg. P..*?</ls>
+  208 Total
+
+python summary.py 1 temp_sch_3.txt bhagp_standard_3.txt bhagp_nonstandard_3.txt
+202 cases written to bhagp_standard_3.txt
+6 cases written to bhagp_nonstandard_3.txt
+
+python summary.py 2 temp_sch_3.txt bhagp_verse_3.txt
+208 instances of ls
+195 cases written to bhagp_verse_3.txt
+
+python check_bur.py temp_link_prelim2_3.txt Burnouf.BhP.index.txt temp_check_bur.txt
+0 links incompatible with index
+
+-------
+  Notice a bug in display:
+  <ls n="Bhāg. P.">7,12,15.</ls> does not link to bhagp_bur!
+  Make appropriate changes in csl-websanlexicon and csl-apidev
+   (in basicadjust.php several changes made in ls_callback_href_sch
+
+# sync csl-websanlexicon to github
+cd /c/xampp/htdocs/cologne/csl-websanlexicon/v02
+git add . # basicadjust
+git commit -m "basicadjust.php for sch references, corrected. Also Bhag.P.
+Ref: https://github.com/sanskrit-lexicon/SCH/issues/10"
+git push
+
+sh apidev_copy.sh
+
+# sync csl-apidev to github
+cd /c/xampp/htdocs/cologne/csl-apidev
+git add . # basicadjust
+git commit -m "basicadjust.php for sch references, corrected. Also Bhag.P.
+Ref: https://github.com/sanskrit-lexicon/SCH/issues/10"
+git push
+
+---
+# sync csl-corrections to github
+cd /c/xampp/htdocs/cologne/csl-corrections
+git add .  # sch_printchange.txt
+git commit -m "sch_printchange.txt for Bhāg. P.
+Ref: https://github.com/sanskrit-lexicon/SCH/issues/10"
+git push
+
+
+--------------------------------------------
+Installation version 3
+--------------------------------------------
+# local installation
+sh redo_sch.sh 3
+# ok
+-----------------------------------
+sync csl-orig to Github
+cd /c/xampp/htdocs/cologne/csl-orig
+
+git add . # sch.txt
+git commit -m "SCH: standardization of links for 'Bhāg. P.'
+Ref: https://github.com/sanskrit-lexicon/SCH/issues/10"
+#  2 lines changed.
+git push
+
+-----------------------------------
+sync csl-websanlexicon to Github
+cd /c/xampp/htdocs/cologne/csl-websanlexicon
+
+git add . # basicadjust.php
+git commit -m "SCH, etc. links for 'Bhāg. P.'
+Ref: https://github.com/sanskrit-lexicon/SCH/issues/110"
+git push
+
+-----------------------------------
+sync csl-apidev to Github
+cd /c/xampp/htdocs/cologne/csl-apidev
+
+git add . # basicadjust.php
+git commit -m "SCH, etc. links for 'Bhāg. P.'
+Ref: https://github.com/sanskrit-lexicon/SCH/issues/110"
+git push
+
+-----------------------------------
+Sync Cologne server to github
+1. csl-orig repo pull
+2. csl-websanlexicon pull
+3. csl-apidev pull
+4. csl-corrections pull
+5. csl-pywork/v02  remake displays for sch
+
+-----------------------------------
+sync this SCH repo to github.
+cd /c/xampp/htdocs/sanskrit-lexicon/SCH/schissues/issue10
+git add .
+git commit -m "#10 version 3 "
 
 ============================================================
