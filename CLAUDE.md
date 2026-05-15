@@ -4,23 +4,13 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**SCH** is a Sanskrit dictionary digitization and corrections repository in the Sanskrit Lexicon project.
-
-## Architecture
-
-| Directory | Purpose |
-|---|---|
-| (root) | Main dictionary source and correction files |
+This is a Sanskrit dictionary digitization and corrections repository in the Sanskrit Lexicon project.
 
 ## GitHub Issue Conventions
 
-This repository follows the Sanskrit Lexicon unified taxonomy for all issues. See runbook for details.
+All issues must have:
+- **Type**: exactly one label (link-target, link-splitting, markup, text-correction, content-enhancement, encoding, scan-quality, bug, question)
+- **Severity**: exactly one label (minor, medium, hard)
+- **Milestone**: one of (Dictionary to Book, Digitization Quality, Structured Data, Major Enhancements)
 
-### Issue Types (exactly one per issue)
-- **link-target**, **link-splitting**, **markup**, **text-correction**, **content-enhancement**, **encoding**, **scan-quality**, **bug**, **question**
-
-### Severity (exactly one per issue)
-- **minor**, **medium**, **hard**
-
-### Milestones
-- Dictionary to Book, Digitization Quality, Structured Data, Major Enhancements
+See the Sanskrit Lexicon runbook for full definitions.
