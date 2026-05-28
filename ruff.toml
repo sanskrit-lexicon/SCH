@@ -1,0 +1,7 @@
+# ruff.toml — Sanskrit Lexicon dictionary linting config.
+target-version = "py311"
+
+[lint]
+# Only syntax errors; F82 (undefined names) disabled (false positives in
+# conditional imports and late-bound variables common in correction scripts).
+select = ["E9", "F63", "F7"]
