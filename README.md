@@ -1,22 +1,104 @@
 # SCH — Schmidt *Nachträge zum Sanskrit-Wörterbuch* (1928)
 
-Development and correction repository for **Richard Schmidt's *Nachträge zum Sanskrit-Wörterbuch in kürzerer Fassung***, a supplement (Nachträge) to the abridged Petersburg dictionary (PWK), part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/sch/sch.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/sch/sch.txt) (28,455 entries); this repository holds the development, correction, and enrichment work.
+_Created: 05-07-2026 · Last updated: 05-07-2026_
 
-An addenda volume continuing PWK with words and citations not in the original; entries are keyed to the Petersburg tradition.
+Development and correction repository for **Richard Schmidt's *Nachträge zum
+Sanskrit-Wörterbuch in kürzerer Fassung***, a supplement continuing the
+abridged Petersburg dictionary (PWK) with 28,455 additional entries and
+citations, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/)
+(CDSL).
 
-## Documentation
+---
 
-- [CLAUDE.md](CLAUDE.md) — repository guide and data-format reference.
-- [DATA_DICTIONARY.md](DATA_DICTIONARY.md) — markup tag reference.
-- [CONTRIBUTING.md](CONTRIBUTING.md) · [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+## Why this repo exists
+
+The canonical source text lives in
+[`csl-orig/v02/sch/sch.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/sch/sch.txt)
+and is never edited directly — corrections are prepared here as scripted,
+auditable line-level changes, then applied and pushed upstream in a batch.
+This repo holds the actual working history of that process: the scripts
+that found ~30,000 markup errors and fixed them, the intermediate `temp_*`
+files documenting each pass, and the per-issue folders for larger campaigns
+(e.g. adding `<ls>` literary-source markup, fixing citation abbreviations,
+Greek-script cleanup).
+
+Concretely, this is where the answer to "why does entry N in SCH look the
+way it does" is worked out and recorded, not just "corrected in place."
+
+---
 
 ## Contents
 
 | Path | Purpose |
 |---|---|
-| `greek/` | `greek/` working files |
-| `ls/` | `ls/` working files |
-| `schissues/` | `schissues/` working files |
+| [`greek/`](greek/) | Greek-script encoding correction pass |
+| [`ls/`](ls/) | `<ls>` literary-source-citation markup campaign — the largest single effort (~30,000 lines changed), with the full worked log in [`ls/readme.txt`](ls/readme.txt) |
+| [`schissues/`](schissues/) | Per-issue correction workflows (`issue10/`, …) |
+| [`schmidt_orig_utf8.txt`](schmidt_orig_utf8.txt) | Earliest tracked UTF-8 transcription of Schmidt's text (28,763 lines) — historical baseline, not the current canonical source |
+| [`SCH-Nachtraege.doc`](SCH-Nachtraege.doc) / [`.htm`](SCH-Nachtraege.htm) / [`.pdf`](SCH-Nachtraege.pdf) | Front-matter / preface material |
+| [`DATA_DICTIONARY.md`](DATA_DICTIONARY.md) | Markup tag reference |
+| [`CLAUDE.md`](CLAUDE.md) | Repository guide for Claude Code agents |
+
+---
+
+## Usage: applying a line-level correction (verified runnable)
+
+Every correction in this repo — and across the org — goes through
+[`updateByLine.py`](ls/updateByLine.py): apply a change file of paired
+`N old …` / `N new …` (or `ins`/`del`) lines against a source text, and get
+a corrected copy plus a change-count summary.
+
+Below is a real, minimal example run against this repo's own
+[`schmidt_orig_utf8.txt`](schmidt_orig_utf8.txt) — line 5 originally reads:
+
+```
+number after € indicates number of lines in entry
+```
+
+Change file (`change_demo.txt`, UTF-8, no BOM):
+
+```
+5 old number after € indicates number of lines in entry
+5 new number after € indicates number of lines in each entry
+```
+
+Run:
+
+```sh
+python ls/updateByLine.py schmidt_orig_utf8.txt change_demo.txt schmidt_demo_out.txt
+```
+
+Actual output (05-07-2026, this checkout):
+
+```
+28763 lines read from schmidt_orig_utf8.txt
+28763 records written to schmidt_demo_out.txt
+1 change transactions from change_demo.txt
+1 of type new
+```
+
+And line 5 of `schmidt_demo_out.txt` reads:
+
+```
+number after € indicates number of lines in each entry
+```
+
+`updateByLine.py` also supports `ins` (insert after a line) and `del`
+(delete a line) in place of `new` — see the docstring at the top of
+[`ls/updateByLine.py`](ls/updateByLine.py) for the exact syntax.
+
+### The real campaign this pattern powered
+
+[`ls/readme.txt`](ls/readme.txt) is the worked log of the largest actual
+correction pass in this repo: adding `<ls>` literary-source markup across
+all 29,123 entries. It ran `change_ls1.py` iteratively against a growing
+abbreviation list (`front.txt`), producing successive `temp_sch_N.txt`
+snapshots, and ultimately applied **~30,000** individual line changes via
+exactly the `updateByLine.py` invocation shown above, before the corrected
+file was copied back into `csl-orig` and XML-validated with
+`generate_dict.sh` / `xmlchk_xampp.sh`.
+
+---
 
 ## Timeline
 
@@ -25,6 +107,8 @@ An addenda volume continuing PWK with words and citations not in the original; e
 | 2014 | Repository activity begins (first tracked issues) |
 | 2017–2024 | Ongoing corrections, markup, and comparison work |
 | 2026-05 | Issue taxonomy, citation metadata, documentation |
+
+---
 
 ## Projects & Milestones
 
@@ -35,25 +119,6 @@ An addenda volume continuing PWK with words and citations not in the original; e
 | Structured Data | 1 | 5 | 6 |
 | Major Enhancements | 3 | 1 | 4 |
 | **Total** | **4** | **8** | **12** |
-
-```mermaid
-pie showData
-  title SCH issues by milestone
-  "Digitization Quality" : 2
-  "Structured Data" : 6
-  "Major Enhancements" : 4
-```
-
-## Issues
-
-```mermaid
-pie showData
-  title SCH issues by type
-  "markup" : 5
-  "content-enhancement" : 4
-  "encoding" : 2
-  "question" : 1
-```
 
 ### Open
 
@@ -76,6 +141,8 @@ pie showData
 | 8 | ls markup | markup | minor | Structured Data |
 | 10 | BHĀGAVATAPURĀṆA SCH literary source markup | markup | minor | Structured Data |
 | 11 | [markup] Minor sch.txt Markup Oddities | markup | minor | Structured Data |
+
+---
 
 ## Labels
 
@@ -101,12 +168,16 @@ pie showData
 | `medium` | Standard unit of work — one batch of corrections |
 | `hard` | Large effort spanning many sources or files |
 
+---
+
 ## Contributors
 
 | Contributor | Commits |
 |---|---|
 | gasyoun (Mārcis Gasūns) | 23 |
 | funderburkjim | 17 |
+
+---
 
 ## Source
 
@@ -119,11 +190,15 @@ pie showData
 - **License (digital edition)**: CC BY-SA 4.0
 - See [CITATION.cff](CITATION.cff) for machine-readable citation.
 
+---
+
 ## Encoding
 
 - UTF-8 (NFC) throughout.
 - Sanskrit text in SLP1 transliteration, wrapped in `{#…#}`; German gloss / italic display text in `{%…%}`.
 - Devanāgarī and IAST display forms are generated at display time, not stored in the source.
+
+---
 
 ## How it works
 
@@ -137,4 +212,7 @@ flowchart LR
 ```
 
 ---
+
 *Issue taxonomy and documentation per the [Cologne issue runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-issue-runbook.md).*
+
+_Dr. Mārcis Gasūns_
