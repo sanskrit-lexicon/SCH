@@ -25,7 +25,7 @@ Kauś(ikasūtram) ed. Caland.
 
 Govardh(anācārya's) Āryāsaptaśatī ed. Kāvyamālā Nr. 1. Латинские цифры относятся к вступительным строфам 1—54.
 
-Caraka (ed. Debendra Nath Sen und Upendra Nath Sen, поскольку речь идёт о моих собственных данных).
+Caraka (ed. Debendra Nath Sen und Upendra Nath Sen, поскольку речь идет о моих собственных данных).
 
 Darpad(alana) ed. Kāvyamālā, Part VI, p. 66 ff.
 
@@ -39,13 +39,13 @@ Par. Sār. = The Paramārtha Sāra (The Kashmir Series of Texts and Studies edit
 
 Par. Tr. = The Parā Trimsikā (Vol. XXI в предыдущей серии).
 
-Pārvat(īpariṇayanāṭakam), моё издание (AKM XIII, 4; Leipzig 1917).
+Pārvat(īpariṇayanāṭakam), мое издание (AKM XIII, 4; Leipzig 1917).
 
 Pūrṇabh(adra), по списку Хертеля в его издании.
 
 Praty. Hṛd. = Pratyabhijñā Hṛdaya (Vol. III Kashmir Series).
 
-Manmath(onmathana), моё издание ZDMG 63.
+Manmath(onmathana), мое издание ZDMG 63.
 
 Mgs = Mānavagṛhyasūtra ed. Knauer.
 
