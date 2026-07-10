@@ -1,6 +1,6 @@
 # SCH — Schmidt *Nachträge zum Sanskrit-Wörterbuch* (1928)
 
-_Created: 05-07-2026 · Last updated: 05-07-2026_
+_Created: 15-05-2026 · Last updated: 11-07-2026_
 
 Development and correction repository for **Richard Schmidt's *Nachträge zum
 Sanskrit-Wörterbuch in kürzerer Fassung***, a supplement continuing the
@@ -31,25 +31,25 @@ way it does" is worked out and recorded, not just "corrected in place."
 
 | Path | Purpose |
 |---|---|
-| [`greek/`](greek/) | Greek-script encoding correction pass |
-| [`ls/`](ls/) | `<ls>` literary-source-citation markup campaign — the largest single effort (~30,000 lines changed), with the full worked log in [`ls/readme.txt`](ls/readme.txt) |
-| [`schissues/`](schissues/) | Per-issue correction workflows (`issue10/`, …) |
-| [`schmidt_orig_utf8.txt`](schmidt_orig_utf8.txt) | Earliest tracked UTF-8 transcription of Schmidt's text (28,763 lines) — historical baseline, not the current canonical source |
-| [`SCH-Nachtraege.doc`](SCH-Nachtraege.doc) / [`.htm`](SCH-Nachtraege.htm) / [`.pdf`](SCH-Nachtraege.pdf) | Front-matter / preface material |
-| [`DATA_DICTIONARY.md`](DATA_DICTIONARY.md) | Markup tag reference |
-| [`CLAUDE.md`](CLAUDE.md) | Repository guide for Claude Code agents |
+| [`greek/`](https://github.com/sanskrit-lexicon/SCH/tree/main/greek) | Greek-script encoding correction pass |
+| [`ls/`](https://github.com/sanskrit-lexicon/SCH/tree/main/ls) | `<ls>` literary-source-citation markup campaign — the largest single effort (~30,000 lines changed), with the full worked log in [`ls/readme.txt`](https://github.com/sanskrit-lexicon/SCH/blob/main/ls/readme.txt) |
+| [`schissues/`](https://github.com/sanskrit-lexicon/SCH/tree/main/schissues) | Per-issue correction workflows (`issue10/`, …) |
+| [`schmidt_orig_utf8.txt`](https://github.com/sanskrit-lexicon/SCH/blob/main/schmidt_orig_utf8.txt) | Earliest tracked UTF-8 transcription of Schmidt's text (28,763 lines) — historical baseline, not the current canonical source |
+| [`SCH-Nachtraege.doc`](https://github.com/sanskrit-lexicon/SCH/blob/main/SCH-Nachtraege.doc) / [`.htm`](https://github.com/sanskrit-lexicon/SCH/blob/main/SCH-Nachtraege.htm) / [`.pdf`](https://github.com/sanskrit-lexicon/SCH/blob/main/SCH-Nachtraege.pdf) | Front-matter / preface material |
+| [`DATA_DICTIONARY.md`](https://github.com/sanskrit-lexicon/SCH/blob/main/DATA_DICTIONARY.md) | Markup tag reference |
+| [`CLAUDE.md`](https://github.com/sanskrit-lexicon/SCH/blob/main/CLAUDE.md) | Repository guide for Claude Code agents |
 
 ---
 
 ## Usage: applying a line-level correction (verified runnable)
 
 Every correction in this repo — and across the org — goes through
-[`updateByLine.py`](ls/updateByLine.py): apply a change file of paired
+[`updateByLine.py`](https://github.com/sanskrit-lexicon/SCH/blob/main/ls/updateByLine.py): apply a change file of paired
 `N old …` / `N new …` (or `ins`/`del`) lines against a source text, and get
 a corrected copy plus a change-count summary.
 
 Below is a real, minimal example run against this repo's own
-[`schmidt_orig_utf8.txt`](schmidt_orig_utf8.txt) — line 5 originally reads:
+[`schmidt_orig_utf8.txt`](https://github.com/sanskrit-lexicon/SCH/blob/main/schmidt_orig_utf8.txt) — line 5 originally reads:
 
 ```
 number after € indicates number of lines in entry
@@ -68,7 +68,7 @@ Run:
 python ls/updateByLine.py schmidt_orig_utf8.txt change_demo.txt schmidt_demo_out.txt
 ```
 
-Actual output (05-07-2026, this checkout):
+Actual output (11-07-2026, this checkout):
 
 ```
 28763 lines read from schmidt_orig_utf8.txt
@@ -85,11 +85,11 @@ number after € indicates number of lines in each entry
 
 `updateByLine.py` also supports `ins` (insert after a line) and `del`
 (delete a line) in place of `new` — see the docstring at the top of
-[`ls/updateByLine.py`](ls/updateByLine.py) for the exact syntax.
+[`ls/updateByLine.py`](https://github.com/sanskrit-lexicon/SCH/blob/main/ls/updateByLine.py) for the exact syntax.
 
 ### The real campaign this pattern powered
 
-[`ls/readme.txt`](ls/readme.txt) is the worked log of the largest actual
+[`ls/readme.txt`](https://github.com/sanskrit-lexicon/SCH/blob/main/ls/readme.txt) is the worked log of the largest actual
 correction pass in this repo: adding `<ls>` literary-source markup across
 all 29,123 entries. It ran `change_ls1.py` iteratively against a growing
 abbreviation list (`front.txt`), producing successive `temp_sch_N.txt`
@@ -174,7 +174,7 @@ file was copied back into `csl-orig` and XML-validated with
 
 | Contributor | Commits |
 |---|---|
-| gasyoun (Mārcis Gasūns) | 23 |
+| gasyoun (Mārcis Gasūns) | 33 |
 | funderburkjim | 17 |
 
 ---
@@ -188,7 +188,7 @@ file was copied back into `csl-orig` and XML-validated with
 - **Language pair**: Sanskrit → German
 - **Size (CDSL headword index)**: 28,455 entries
 - **License (digital edition)**: CC BY-SA 4.0
-- See [CITATION.cff](CITATION.cff) for machine-readable citation.
+- See [`CITATION.cff`](https://github.com/sanskrit-lexicon/SCH/blob/main/CITATION.cff) for machine-readable citation.
 
 ---
 
