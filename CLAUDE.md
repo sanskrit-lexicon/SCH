@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **SCH** is the development and correction repository for **Richard Schmidt's *Nachträge zum Sanskrit-Wörterbuch in kürzerer Fassung***, a supplement (Nachträge) to the abridged Petersburg dictionary (PWK), within the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL).
 
-- **Canonical source text**: [`csl-orig/v02/sch/sch.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/sch/sch.txt) (28,455 entries) — corrections are applied to that file, not stored here.
+- **Canonical source text**: [`csl-orig/v02/sch/sch.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/sch/sch.txt) (28,455 entries) — corrections are applied to that file, not stored here.
 - This repository holds **development artifacts**: corrections, markup, comparison, and per-issue working files.
 - An addenda volume continuing PWK with words and citations not in the original; entries are keyed to the Petersburg tradition.
 
