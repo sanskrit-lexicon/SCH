@@ -13,7 +13,7 @@ citations, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-l
 ## Why this repo exists
 
 The canonical source text lives in
-[`csl-orig/v02/sch/sch.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/sch/sch.txt)
+[`csl-orig/v02/sch/sch.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/sch/sch.txt)
 and is never edited directly — corrections are prepared here as scripted,
 auditable line-level changes, then applied and pushed upstream in a batch.
 This repo holds the actual working history of that process: the scripts
