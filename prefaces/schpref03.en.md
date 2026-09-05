@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: sch-tit-06.png
 source_page: Foreword, 2
@@ -27,3 +29,5 @@ Unmattar(āghavam) ed. Kāvyamālā Nr. 17.
 E(rotik), Beiträge zur indischen. 1st edition. The letters standing in brackets after it mean: A = Anaṅgaraṅga; D = Dinālāpanikā-Śukasaptati; K = Kandarpacūḍāmaṇi; P = Pañcasāyaka; R = Ratirahasya; Rm = Ratimañjarī; S = Smaradīpikā. Some of the more recent erotic authors have meanwhile appeared in Benares and Lahore; they are cited occasionally.
 
 Kathāk(autukam) my edition, Kiel 1898.
+
+_Dr. Mārcis Gasūns_

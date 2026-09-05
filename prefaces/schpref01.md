@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: sch-tit-01.png
 source_page: Title
@@ -20,3 +22,5 @@ RICHARD SCHMIDT
 LEIPZIG 1928
 
 VERLAG VON OTTO HARRASSOWITZ
+
+_Dr. Mārcis Gasūns_

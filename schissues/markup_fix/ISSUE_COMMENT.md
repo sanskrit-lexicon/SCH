@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ### Location
 
 Counterpart of https://github.com/sanskrit-lexicon/PWG/issues/175 (PWG) and https://github.com/sanskrit-lexicon/PWK/issues/113 (PWK) for `sch.txt`.
@@ -54,3 +56,5 @@ Outputs: `sch_fixed.txt`, `markup_fix_changes.txt`, `markup_audit.txt`.
 ### Severity
 
 `minor`
+
+_Dr. Mārcis Gasūns_

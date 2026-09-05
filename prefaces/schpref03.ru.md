@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: sch-tit-06.png
 source_page: Foreword, 2
@@ -27,3 +29,5 @@ Unmattar(āghavam) ed. Kāvyamālā Nr. 17.
 E(rotik), Beiträge zur indischen. 1-е издание. Стоящие за этим в скобках буквы означают: A = Anaṅgaraṅga; D = Dinālāpanikā-Śukasaptati; K = Kandarpacūḍāmaṇi; P = Pañcasāyaka; R = Ratirahasya; Rm = Ratimañjarī; S = Smaradīpikā. Некоторые из более поздних эротиков тем временем вышли в Бенаресе и Лахоре; они цитируются от случая к случаю.
 
 Kathāk(autukam) моё издание, Киль 1898.
+
+_Dr. Mārcis Gasūns_

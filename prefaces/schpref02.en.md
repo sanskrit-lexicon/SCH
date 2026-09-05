@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: sch-tit-05.png
 source_page: Foreword, 1
@@ -25,3 +27,5 @@ That Galanos again comes into his own in my list I wish to emphasize particularl
 ¹) A new expedition I undertook on 10 April 1922 and brought to a close on 28 May, laden with rich booty.
 
 ²) Compare also cases such as *kolikasya tantuvāyasya kuvindasya* I, 126, 10 v. u.
+
+_Dr. Mārcis Gasūns_

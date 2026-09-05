@@ -1,6 +1,8 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 # Front matter — complete (English)
 
-Per-page files: `schprefNN.en.md`. Index: [README.md](README.md).
+Per-page files: `schprefNN.en.md`. Index: [README.md](https://github.com/sanskrit-lexicon/SCH/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -189,3 +191,5 @@ Finally, one more remark, the omission of which would be against my innermost co
 Münster (Westphalia), 26 September 1924.
 
 Richard Schmidt.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: sch-tit-08.png
 source_page: Foreword, 4
@@ -20,3 +22,5 @@ Finally, one more remark, the omission of which would be against my innermost co
 Münster (Westphalia), 26 September 1924.
 
 Richard Schmidt.
+
+_Dr. Mārcis Gasūns_

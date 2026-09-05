@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: sch-tit-08.png
 source_page: Foreword, 4
@@ -20,3 +22,5 @@ translation_of: schpref05.md
 Мюнстер (Вестфалия), 26 сентября 1924 г.
 
 Рихард Шмидт.
+
+_Dr. Mārcis Gasūns_

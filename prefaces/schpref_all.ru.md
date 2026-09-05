@@ -1,6 +1,8 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 # Предварительные материалы — полностью (русский)
 
-Per-page files: `schprefNN.ru.md`. Index: [README.md](README.md).
+Per-page files: `schprefNN.ru.md`. Index: [README.md](https://github.com/sanskrit-lexicon/SCH/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -189,3 +191,5 @@ Harṣac(aritam) по списку Томаса, JRAS 31.
 Мюнстер (Вестфалия), 26 сентября 1924 г.
 
 Рихард Шмидт.
+
+_Dr. Mārcis Gasūns_

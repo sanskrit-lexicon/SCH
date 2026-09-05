@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: sch-tit-05.png
 source_page: Foreword, 1
@@ -23,3 +25,5 @@ Daß in meinem Verzeichnis Galanos wiederum zu Ehren kommt, will ich noch besond
 ¹) Eine neue Wanderung habe ich am 10. April 1922 unternommen und am 28. Mai, mit reicher Beute beladen, zu Ende geführt.
 
 ²) Man vergleiche auch Fälle wie *kolikasya tantuvāyasya kuvindasya* I, 126, 10 v. u.
+
+_Dr. Mārcis Gasūns_

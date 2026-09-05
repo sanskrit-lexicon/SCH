@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: sch-tit-08.png
 source_page: Foreword, 4
@@ -18,3 +20,5 @@ Schließlich noch eine Bemerkung, die zu unterlassen gegen meine innerste Überz
 Münster W., 26. September 1924.
 
 Richard Schmidt.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: sch-tit-07.png
 source_page: Foreword, 3
@@ -90,3 +92,5 @@ H(aravijaya) ed. Kāvyamālā Nr. 22. Ist teilweise schon im pw verarbeitet und 
 Harṣac(aritam) nach der Liste von Thomas, JRAS 31.
 
 \*&nbsp;&nbsp;\*&nbsp;&nbsp;\*
+
+_Dr. Mārcis Gasūns_

@@ -1,6 +1,8 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 # Front matter — complete (German, source language)
 
-Per-page files: `schprefNN.md`. Index: [README.md](README.md).
+Per-page files: `schprefNN.md`. Index: [README.md](https://github.com/sanskrit-lexicon/SCH/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -189,3 +191,5 @@ Schließlich noch eine Bemerkung, die zu unterlassen gegen meine innerste Überz
 Münster W., 26. September 1924.
 
 Richard Schmidt.
+
+_Dr. Mārcis Gasūns_

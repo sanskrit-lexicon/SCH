@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: sch-tit-05.png
 source_page: Foreword, 1
@@ -25,3 +27,5 @@ translation_of: schpref02.md
 ¹) Новое странствие я предпринял 10 апреля 1922 года и завершил его 28 мая, нагружённый богатой добычей.
 
 ²) Сравни также случаи вроде *kolikasya tantuvāyasya kuvindasya* I, 126, 10 v. u.
+
+_Dr. Mārcis Gasūns_
