@@ -1,5 +1,7 @@
 # SCH — Schmidt *Nachträge zum Sanskrit-Wörterbuch* (1928)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23151377.svg)](https://doi.org/10.5281/zenodo.23151377)
+
 _Created: 15-05-2026 · Last updated: 11-07-2026_
 
 Development and correction repository for **Richard Schmidt's *Nachträge zum
