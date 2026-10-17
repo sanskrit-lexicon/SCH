@@ -4,7 +4,7 @@ _Created: 28-05-2026 · Last updated: 05-09-2026_
 
 SCH is part of the [Sanskrit Lexicon](https://github.com/sanskrit-lexicon) project — corrections and enhancements for the Cologne digitisation of *Cologne Sanskrit–English Dictionary*.
 
-> Inherits the [Sanskrit Lexicon org-wide contribution standard](https://github.com/sanskrit-lexicon/COLOGNE/blob/master/CONTRIBUTING.md). This file documents anything **repo-specific** on top of it.
+> Inherits the [Sanskrit Lexicon org-wide contribution standard](https://github.com/sanskrit-lexicon/COLOGNE/blob/main/CONTRIBUTING.md). This file documents anything **repo-specific** on top of it.
 
 ## Reporting issues
 
